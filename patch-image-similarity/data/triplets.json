@@ -1,0 +1,310 @@
+[
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "type": "synthetic",
+    "note": "astronaut vs crop_zoom(astronaut) vs clock"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "synthetic",
+    "note": "astronaut vs rotate_flip_jitter(astronaut) vs brick"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "type": "synthetic",
+    "note": "coffee vs crop_zoom(coffee) vs checkerboard"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "type": "synthetic",
+    "note": "coffee vs rotate_flip_jitter(coffee) vs rocket"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "type": "synthetic",
+    "note": "rocket vs crop_zoom(rocket) vs colorwheel"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "type": "synthetic",
+    "note": "rocket vs rotate_flip_jitter(rocket) vs clock"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "type": "synthetic",
+    "note": "cat vs crop_zoom(cat) vs rocket"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo.png",
+    "type": "synthetic",
+    "note": "cat vs rotate_flip_jitter(cat) vs logo"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "type": "synthetic",
+    "note": "coins vs crop_zoom(coins) vs moon"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "type": "synthetic",
+    "note": "coins vs rotate_flip_jitter(coins) vs checkerboard"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "type": "synthetic",
+    "note": "camera vs crop_zoom(camera) vs clock"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins.png",
+    "type": "synthetic",
+    "note": "camera vs rotate_flip_jitter(camera) vs coins"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coins.png",
+    "type": "synthetic",
+    "note": "moon vs crop_zoom(moon) vs coins"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "type": "synthetic",
+    "note": "moon vs rotate_flip_jitter(moon) vs cat"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo.png",
+    "type": "synthetic",
+    "note": "clock vs crop_zoom(clock) vs logo"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "synthetic",
+    "note": "clock vs rotate_flip_jitter(clock) vs brick"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "synthetic",
+    "note": "checkerboard vs crop_zoom(checkerboard) vs brick"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "type": "synthetic",
+    "note": "checkerboard vs rotate_flip_jitter(checkerboard) vs rocket"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "type": "synthetic",
+    "note": "colorwheel vs crop_zoom(colorwheel) vs checkerboard"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "type": "synthetic",
+    "note": "colorwheel vs rotate_flip_jitter(colorwheel) vs moon"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "synthetic",
+    "note": "page vs crop_zoom(page) vs brick"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "type": "synthetic",
+    "note": "page vs rotate_flip_jitter(page) vs checkerboard"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "type": "synthetic",
+    "note": "text vs crop_zoom(text) vs colorwheel"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "type": "synthetic",
+    "note": "text vs rotate_flip_jitter(text) vs astronaut"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "synthetic",
+    "note": "logo vs crop_zoom(logo) vs brick"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\logo_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "type": "synthetic",
+    "note": "logo vs rotate_flip_jitter(logo) vs astronaut"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel.png",
+    "type": "synthetic",
+    "note": "brick vs crop_zoom(brick) vs gravel"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "type": "synthetic",
+    "note": "brick vs rotate_flip_jitter(brick) vs colorwheel"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text.png",
+    "type": "synthetic",
+    "note": "grass vs crop_zoom(grass) vs text"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page.png",
+    "type": "synthetic",
+    "note": "grass vs rotate_flip_jitter(grass) vs page"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel_crop_zoom.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "type": "synthetic",
+    "note": "gravel vs crop_zoom(gravel) vs clock"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel_rotate_flip_jitter.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "type": "synthetic",
+    "note": "gravel vs rotate_flip_jitter(gravel) vs moon"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket_on_grass.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "type": "semantic",
+    "note": "same object (rocket), different background, vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket_on_gravel.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "type": "semantic",
+    "note": "same object (rocket), different background, vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\motorcycle_left.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\motorcycle_right.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "type": "semantic",
+    "note": "same scene, camera-shifted (real stereo pair), vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut_crop.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\rocket.png",
+    "type": "semantic",
+    "note": "same scene, cropped, vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee_crop.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "type": "semantic",
+    "note": "same scene, cropped (zoomed to subject), vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut_dup.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "type": "semantic",
+    "note": "near-duplicate (resize/noise/jpeg) vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\coffee.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee_dup.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\astronaut.png",
+    "type": "semantic",
+    "note": "near-duplicate (resize/noise/jpeg) vs unrelated"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\gravel.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\brick.png",
+    "type": "semantic",
+    "note": "loose ground-cover textures (grass/gravel) vs a built structure (brick wall)"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\checkerboard.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\colorwheel.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "type": "semantic",
+    "note": "abstract graphic/geometric patterns vs a real photo"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\moon.png",
+    "type": "semantic",
+    "note": "man-made object on a plain background (cat photo has a similar plain-background studio feel to camera) vs a distant celestial scene"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\page.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\text.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\cat.png",
+    "type": "semantic",
+    "note": "scanned text/document imagery vs a real photo"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\clock.png",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\camera.png",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\triplet_images\\grass.png",
+    "type": "semantic",
+    "note": "small manufactured object photographed on plain background vs a ground texture"
+  }
+]

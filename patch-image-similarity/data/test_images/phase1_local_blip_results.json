@@ -1,0 +1,90 @@
+[
+  {
+    "name": "near_duplicate_astronaut",
+    "category": "near_duplicate",
+    "expected": "high",
+    "global": 0.9550284743309021,
+    "phase0_maxsim": 0.9275454580783844,
+    "phase1_maxsim": 0.611454039812088
+  },
+  {
+    "name": "near_duplicate_coffee",
+    "category": "near_duplicate",
+    "expected": "high",
+    "global": 0.902060866355896,
+    "phase0_maxsim": 0.9205799698829651,
+    "phase1_maxsim": 0.6823314428329468
+  },
+  {
+    "name": "same_scene_shifted_motorcycle",
+    "category": "same_scene_shifted",
+    "expected": "high",
+    "global": 0.9724922180175781,
+    "phase0_maxsim": 0.9116781055927277,
+    "phase1_maxsim": 0.9341694414615631
+  },
+  {
+    "name": "same_scene_cropped_astronaut",
+    "category": "same_scene_cropped",
+    "expected": "high",
+    "global": 0.9188312292098999,
+    "phase0_maxsim": 0.8010420501232147,
+    "phase1_maxsim": 0.6342459917068481
+  },
+  {
+    "name": "same_scene_cropped_coffee",
+    "category": "same_scene_cropped",
+    "expected": "medium-high",
+    "global": 0.9514172673225403,
+    "phase0_maxsim": 0.8709459602832794,
+    "phase1_maxsim": 0.8689459264278412
+  },
+  {
+    "name": "same_object_diff_background_rocket_grass",
+    "category": "same_object_diff_background",
+    "expected": "medium",
+    "global": 0.6111356019973755,
+    "phase0_maxsim": 0.4543156772851944,
+    "phase1_maxsim": 0.4812269061803818
+  },
+  {
+    "name": "same_object_diff_background_rocket_gravel",
+    "category": "same_object_diff_background",
+    "expected": "medium",
+    "global": 0.5879788994789124,
+    "phase0_maxsim": 0.45209042727947235,
+    "phase1_maxsim": 0.40726542472839355
+  },
+  {
+    "name": "unrelated_astronaut_coffee",
+    "category": "unrelated",
+    "expected": "low",
+    "global": 0.021580802276730537,
+    "phase0_maxsim": 0.1805361732840538,
+    "phase1_maxsim": 0.21712343394756317
+  },
+  {
+    "name": "unrelated_cat_coins",
+    "category": "unrelated",
+    "expected": "low",
+    "global": 0.04593268781900406,
+    "phase0_maxsim": 0.12452523037791252,
+    "phase1_maxsim": 0.09938516467809677
+  },
+  {
+    "name": "unrelated_rocket_cat",
+    "category": "unrelated",
+    "expected": "low",
+    "global": -0.002718941308557987,
+    "phase0_maxsim": 0.10006183013319969,
+    "phase1_maxsim": 0.24004249274730682
+  },
+  {
+    "name": "unrelated_texture_brick_grass",
+    "category": "unrelated",
+    "expected": "low",
+    "global": 0.10689979791641235,
+    "phase0_maxsim": 0.23620891571044922,
+    "phase1_maxsim": 0.582544207572937
+  }
+]

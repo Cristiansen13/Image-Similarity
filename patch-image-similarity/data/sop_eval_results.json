@@ -1,0 +1,287 @@
+{
+  "global": {
+    "accuracy_overall": 0.925,
+    "failures": [
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261991501127_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16574 (super_class 9)",
+        "pos_score": 0.21289309859275818,
+        "neg_score": 0.5310811400413513
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_3.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\200995373193_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 14006 (super_class 8)",
+        "pos_score": 0.17522968351840973,
+        "neg_score": 0.24353551864624023
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\121721458118_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\121721458118_5.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381350149678_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 10384 (super_class 7)",
+        "pos_score": 0.0842200294137001,
+        "neg_score": 0.10687147080898285
+      }
+    ]
+  },
+  "phase0_maxsim": {
+    "accuracy_overall": 1.0,
+    "failures": []
+  },
+  "phase1_grid3": {
+    "accuracy_overall": 0.7,
+    "failures": [
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\311334661343_8.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\311334661343_7.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\111729968155_1.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 916 (super_class 1)",
+        "pos_score": 0.47636666893959045,
+        "neg_score": 0.4796803295612335
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\271909613515_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\271909613515_5.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\131560356879_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 22005 (super_class 12)",
+        "pos_score": 0.1721503660082817,
+        "neg_score": 0.2903023287653923
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261991501127_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16574 (super_class 9)",
+        "pos_score": 0.6862143576145172,
+        "neg_score": 0.7328135669231415
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381337578150_7.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381337578150_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\251662805187_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 1085 (super_class 1)",
+        "pos_score": 0.43885210156440735,
+        "neg_score": 0.5124240517616272
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261813415177_3.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 8588 (super_class 6)",
+        "pos_score": 0.49334147572517395,
+        "neg_score": 0.5939269959926605
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151779768341_2.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151779768341_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\291481440517_1.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 8660 (super_class 6)",
+        "pos_score": 0.4574524313211441,
+        "neg_score": 0.4809602349996567
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\221837420341_1.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\221837420341_0.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\221851596037_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 6203 (super_class 4)",
+        "pos_score": 0.5589046478271484,
+        "neg_score": 0.6638237535953522
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\111715838307_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16601 (super_class 9)",
+        "pos_score": 0.6703540086746216,
+        "neg_score": 0.6818764805793762
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\191642151595_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\191642151595_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\181816086364_3.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 13317 (super_class 8)",
+        "pos_score": 0.5291991233825684,
+        "neg_score": 0.5505401790142059
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\351361311972_2.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\351361311972_1.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\252034808005_1.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 14783 (super_class 8)",
+        "pos_score": 0.28063125908374786,
+        "neg_score": 0.5467072576284409
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_3.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\200995373193_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 14006 (super_class 8)",
+        "pos_score": 0.33037494122982025,
+        "neg_score": 0.5873653888702393
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\252030856202_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 1638 (super_class 2)",
+        "pos_score": 0.3206234723329544,
+        "neg_score": 0.763321191072464
+      }
+    ]
+  },
+  "phase1_grid4": {
+    "accuracy_overall": 0.825,
+    "failures": [
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261991501127_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16574 (super_class 9)",
+        "pos_score": 0.6487511992454529,
+        "neg_score": 0.7047541439533234
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261813415177_3.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 8588 (super_class 6)",
+        "pos_score": 0.4465412199497223,
+        "neg_score": 0.6389383673667908
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261988727808_2.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261988727808_0.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\201403041761_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 17725 (super_class 10)",
+        "pos_score": 0.6729230284690857,
+        "neg_score": 0.6826654672622681
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\111715838307_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16601 (super_class 9)",
+        "pos_score": 0.6022565066814423,
+        "neg_score": 0.673001229763031
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\130882159575_1.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\130882159575_0.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\390978327949_8.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 8449 (super_class 6)",
+        "pos_score": 0.6477108597755432,
+        "neg_score": 0.7268401980400085
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_3.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\200995373193_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 14006 (super_class 8)",
+        "pos_score": 0.4214276820421219,
+        "neg_score": 0.6491916179656982
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\252030856202_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 1638 (super_class 2)",
+        "pos_score": 0.3192158490419388,
+        "neg_score": 0.38167524337768555
+      }
+    ]
+  },
+  "phase1_combo_3+4": {
+    "accuracy_overall": 0.825,
+    "failures": [
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\271909613515_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\271909613515_5.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\131560356879_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 22005 (super_class 12)",
+        "pos_score": 0.23852257058024406,
+        "neg_score": 0.2523445747792721
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\371384949228_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261991501127_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16574 (super_class 9)",
+        "pos_score": 0.667482778429985,
+        "neg_score": 0.7187838554382324
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381337578150_7.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381337578150_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\251662805187_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 1085 (super_class 1)",
+        "pos_score": 0.44151461869478226,
+        "neg_score": 0.4418034702539444
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\151336696012_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261813415177_3.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 8588 (super_class 6)",
+        "pos_score": 0.4699413478374481,
+        "neg_score": 0.6164326816797256
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\381334381991_4.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\111715838307_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 16601 (super_class 9)",
+        "pos_score": 0.6363052576780319,
+        "neg_score": 0.6774388551712036
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_6.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\261993099298_3.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\200995373193_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 14006 (super_class 8)",
+        "pos_score": 0.37590131163597107,
+        "neg_score": 0.6182785034179688
+      },
+      {
+        "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_3.JPG",
+        "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\161760819114_2.JPG",
+        "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_subset\\252030856202_0.JPG",
+        "type": "sop_hard",
+        "note": "SOP class 1638 (super_class 2)",
+        "pos_score": 0.3199196606874466,
+        "neg_score": 0.5724982172250748
+      }
+    ]
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "zero_shot_accuracy": {
+    "global": 0.55,
+    "phase0_maxsim": 0.775,
+    "phase1_grid3": 0.625,
+    "phase1_grid4": 0.625
+  },
+  "phase1_combo_3+4_accuracy": 0.55,
+  "trained_combiner_loo_accuracy": 0.725,
+  "avg_learned_weights": {
+    "global": -2.0840811729431152,
+    "phase0_maxsim": 2.3362908363342285,
+    "phase1_grid3": 0.1802048683166504,
+    "phase1_grid4": -0.0915137529373169
+  },
+  "scored_triplets": [
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141634564354_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141634564354_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161788524457_0.JPG",
+      "pos_features": [
+        0.8363755345344543,
+        0.8537084758281708,
+        0.7401260733604431,
+        0.873253583908081
+      ],
+      "neg_features": [
+        0.5347548723220825,
+        0.5600515007972717,
+        0.5969745218753815,
+        0.6783600449562073
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795400304_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795400304_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261776860850_0.JPG",
+      "pos_features": [
+        0.5104244947433472,
+        0.7216548025608063,
+        0.5419446527957916,
+        0.3813659995794296
+      ],
+      "neg_features": [
+        0.7093754410743713,
+        0.4556572735309601,
+        0.30599793791770935,
+        0.3307162821292877
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161768840495_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161768840495_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191647224539_0.JPG",
+      "pos_features": [
+        0.7399888038635254,
+        0.8010287880897522,
+        0.9460570216178894,
+        0.919769674539566
+      ],
+      "neg_features": [
+        0.8160974979400635,
+        0.7319912910461426,
+        0.7854155004024506,
+        0.5096935033798218
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181774898027_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181774898027_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161775403916_0.JPG",
+      "pos_features": [
+        0.8073608875274658,
+        0.8223798871040344,
+        0.5642827451229095,
+        0.8037490248680115
+      ],
+      "neg_features": [
+        0.5305790305137634,
+        0.45390090346336365,
+        0.5486559569835663,
+        0.3324015438556671
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\311385254406_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\311385254406_7.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261993054419_0.JPG",
+      "pos_features": [
+        0.06556388735771179,
+        0.355354979634285,
+        0.3705118000507355,
+        0.5814996957778931
+      ],
+      "neg_features": [
+        0.44397932291030884,
+        0.44336366653442383,
+        0.4420398622751236,
+        0.5814996957778931
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201075055209_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201075055209_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391219218657_0.JPG",
+      "pos_features": [
+        0.5959516763687134,
+        0.7190248370170593,
+        0.631799042224884,
+        0.5173002034425735
+      ],
+      "neg_features": [
+        0.43316370248794556,
+        0.49376896023750305,
+        0.6098609268665314,
+        0.6193584501743317
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161494410437_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161494410437_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231400950736_0.JPG",
+      "pos_features": [
+        0.9259124994277954,
+        0.8216595947742462,
+        0.5869141817092896,
+        0.631890594959259
+      ],
+      "neg_features": [
+        0.6822494864463806,
+        0.5850990116596222,
+        0.5401473194360733,
+        0.4493888318538666
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281765366748_3.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281765366748_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\221836241003_0.JPG",
+      "pos_features": [
+        0.7357805371284485,
+        0.7451238036155701,
+        0.6382681727409363,
+        0.47606784105300903
+      ],
+      "neg_features": [
+        0.27134597301483154,
+        0.5260932296514511,
+        0.7061838507652283,
+        0.4679453372955322
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231645552451_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231645552451_4.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321821630915_0.JPG",
+      "pos_features": [
+        0.7262226939201355,
+        0.7181444466114044,
+        0.685099869966507,
+        0.7521292269229889
+      ],
+      "neg_features": [
+        0.3766772747039795,
+        0.5169693976640701,
+        0.3386140316724777,
+        0.46385906636714935
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301424808348_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301424808348_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161476110079_0.JPG",
+      "pos_features": [
+        0.08035561442375183,
+        0.34168127179145813,
+        0.5411733984947205,
+        0.5526914596557617
+      ],
+      "neg_features": [
+        0.13692708313465118,
+        0.3486785739660263,
+        0.3435334861278534,
+        0.5431513339281082
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121731753706_4.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121731753706_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271334992529_0.JPG",
+      "pos_features": [
+        0.716913104057312,
+        0.6675286889076233,
+        0.3301875591278076,
+        0.5686729699373245
+      ],
+      "neg_features": [
+        0.6881846189498901,
+        0.5362560153007507,
+        0.4260561317205429,
+        0.5692484676837921
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141605933989_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141605933989_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131556270861_0.JPG",
+      "pos_features": [
+        0.8515149354934692,
+        0.8249416351318359,
+        0.41808702051639557,
+        0.47122837603092194
+      ],
+      "neg_features": [
+        0.5389677286148071,
+        0.6711701154708862,
+        0.5443123579025269,
+        0.639838695526123
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121498809137_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121498809137_3.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\371194334834_0.JPG",
+      "pos_features": [
+        0.6773780584335327,
+        0.5701099038124084,
+        0.7186619639396667,
+        0.66648069024086
+      ],
+      "neg_features": [
+        0.6706587076187134,
+        0.5485630035400391,
+        0.5136509090662003,
+        0.5394249558448792
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782637167_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782637167_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391214005364_0.JPG",
+      "pos_features": [
+        0.4864954352378845,
+        0.6175503134727478,
+        0.5716184675693512,
+        0.6055871546268463
+      ],
+      "neg_features": [
+        0.7347090244293213,
+        0.4167565107345581,
+        0.6492779850959778,
+        0.6413057148456573
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321797619465_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321797619465_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321818361733_0.JPG",
+      "pos_features": [
+        0.9175708293914795,
+        0.8445078432559967,
+        0.8587204217910767,
+        0.8774551749229431
+      ],
+      "neg_features": [
+        0.649422287940979,
+        0.6064301431179047,
+        0.829327404499054,
+        0.6750743985176086
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\291528469655_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\291528469655_8.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191588881212_0.JPG",
+      "pos_features": [
+        0.5036610960960388,
+        0.6030559837818146,
+        0.9033442139625549,
+        0.9757998585700989
+      ],
+      "neg_features": [
+        0.7877500653266907,
+        0.6703302562236786,
+        0.910373866558075,
+        0.6623564809560776
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261979456789_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261979456789_4.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141747065010_0.JPG",
+      "pos_features": [
+        0.1446959674358368,
+        0.4422111064195633,
+        0.43941234052181244,
+        0.39012715220451355
+      ],
+      "neg_features": [
+        0.8253557682037354,
+        0.6464267075061798,
+        0.7331240475177765,
+        0.6248342394828796
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151370432068_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151370432068_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301007566359_0.JPG",
+      "pos_features": [
+        0.6600357294082642,
+        0.7865727245807648,
+        0.8898181319236755,
+        0.984081357717514
+      ],
+      "neg_features": [
+        0.7609567642211914,
+        0.7653069794178009,
+        0.8140906691551208,
+        0.7313262820243835
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301714388003_3.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301714388003_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321828469756_0.JPG",
+      "pos_features": [
+        0.3337532877922058,
+        0.6098461747169495,
+        0.4224556088447571,
+        0.6068689525127411
+      ],
+      "neg_features": [
+        0.2052685022354126,
+        0.42033377289772034,
+        0.2566750794649124,
+        0.31054897606372833
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111732293536_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111732293536_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261963614847_0.JPG",
+      "pos_features": [
+        0.6185160875320435,
+        0.6441918015480042,
+        0.6264449656009674,
+        0.5752749741077423
+      ],
+      "neg_features": [
+        0.6372122764587402,
+        0.6851128041744232,
+        0.6388255059719086,
+        0.7879945039749146
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252022965243_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252022965243_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\110715681235_0.JPG",
+      "pos_features": [
+        0.27511200308799744,
+        0.6437844336032867,
+        0.5765222907066345,
+        0.3220292329788208
+      ],
+      "neg_features": [
+        0.5205147862434387,
+        0.5115317106246948,
+        0.5184412896633148,
+        0.5911895334720612
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301400604936_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301400604936_3.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231400950736_0.JPG",
+      "pos_features": [
+        0.4840586185455322,
+        0.5433696210384369,
+        0.38000059127807617,
+        0.26086854934692383
+      ],
+      "neg_features": [
+        0.48167067766189575,
+        0.5366923213005066,
+        0.4917730987071991,
+        0.6499056816101074
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795361217_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795361217_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111169942421_0.JPG",
+      "pos_features": [
+        0.4798491597175598,
+        0.5949988961219788,
+        0.77845099568367,
+        0.29851222038269043
+      ],
+      "neg_features": [
+        0.8347585201263428,
+        0.6542836725711823,
+        0.6811438798904419,
+        0.45496176183223724
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261962122335_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261962122335_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261993054419_0.JPG",
+      "pos_features": [
+        0.9009252190589905,
+        0.734373152256012,
+        0.3875427693128586,
+        0.2977423071861267
+      ],
+      "neg_features": [
+        0.7864224314689636,
+        0.7120186686515808,
+        0.7195009291172028,
+        0.2977423071861267
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171706326214_3.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171706326214_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191647224539_0.JPG",
+      "pos_features": [
+        0.3332909941673279,
+        0.4710571765899658,
+        0.535430520772934,
+        0.4964607506990433
+      ],
+      "neg_features": [
+        0.9086588621139526,
+        0.8674280047416687,
+        0.7363362908363342,
+        0.7564787268638611
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181820695724_7.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181820695724_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151595219115_0.JPG",
+      "pos_features": [
+        0.6838616132736206,
+        0.8672659993171692,
+        0.8449816405773163,
+        1.0
+      ],
+      "neg_features": [
+        0.5872259140014648,
+        0.8150842189788818,
+        0.6219628155231476,
+        0.7336468547582626
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161520577724_3.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161520577724_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301478453226_0.JPG",
+      "pos_features": [
+        0.435116708278656,
+        0.48546792566776276,
+        0.554211750626564,
+        0.2890128791332245
+      ],
+      "neg_features": [
+        0.501922070980072,
+        0.41832558810710907,
+        0.5082768499851227,
+        0.3773784637451172
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171876889982_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171876889982_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321821630915_0.JPG",
+      "pos_features": [
+        0.7562768459320068,
+        0.9059984683990479,
+        0.8555121719837189,
+        0.897420734167099
+      ],
+      "neg_features": [
+        0.5646789073944092,
+        0.6878592371940613,
+        0.44300803542137146,
+        0.5928651094436646
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361363557855_4.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361363557855_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361345943616_0.JPG",
+      "pos_features": [
+        0.7061640024185181,
+        0.7944404482841492,
+        0.8649208545684814,
+        0.8134021162986755
+      ],
+      "neg_features": [
+        0.4961886703968048,
+        0.5606397986412048,
+        0.43595485389232635,
+        0.6028613150119781
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\370263819353_5.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\370263819353_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\310558730751_0.JPG",
+      "pos_features": [
+        0.511671781539917,
+        0.5102215707302094,
+        0.35968680679798126,
+        0.31528525054454803
+      ],
+      "neg_features": [
+        0.3023064136505127,
+        0.38884401321411133,
+        0.5122775435447693,
+        0.2188861295580864
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252030453326_1.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252030453326_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321825124881_0.JPG",
+      "pos_features": [
+        0.5060150623321533,
+        0.7505735158920288,
+        0.822889655828476,
+        0.832283616065979
+      ],
+      "neg_features": [
+        0.4293353855609894,
+        0.4321441352367401,
+        0.560563713312149,
+        0.5027495622634888
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321819466730_3.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321819466730_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181796381128_0.JPG",
+      "pos_features": [
+        0.8732598423957825,
+        0.8255016803741455,
+        0.9582734107971191,
+        0.9757220149040222
+      ],
+      "neg_features": [
+        0.7364674806594849,
+        0.7517250776290894,
+        0.5552251040935516,
+        0.46775931119918823
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131582726309_6.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131582726309_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191663171744_0.JPG",
+      "pos_features": [
+        0.3421008288860321,
+        0.5244481563568115,
+        0.5059110522270203,
+        0.4103812426328659
+      ],
+      "neg_features": [
+        0.6245635151863098,
+        0.5479754507541656,
+        0.688467413187027,
+        0.5370012819766998
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\251715752084_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\251715752084_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301683685071_0.JPG",
+      "pos_features": [
+        0.7545709609985352,
+        0.7899378836154938,
+        0.5928525328636169,
+        0.7138300538063049
+      ],
+      "neg_features": [
+        0.6120529174804688,
+        0.48358482122421265,
+        0.5330624133348465,
+        0.43691158294677734
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271683182907_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271683182907_5.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281193607329_0.JPG",
+      "pos_features": [
+        0.10323972254991531,
+        0.3206753432750702,
+        0.6567762196063995,
+        0.6103140413761139
+      ],
+      "neg_features": [
+        0.9179140329360962,
+        0.8227972984313965,
+        0.8921919465065002,
+        0.852857917547226
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\331396804077_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\331396804077_3.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782108277_0.JPG",
+      "pos_features": [
+        0.36152276396751404,
+        0.5646063983440399,
+        0.46935831010341644,
+        0.6173207461833954
+      ],
+      "neg_features": [
+        0.2558278441429138,
+        0.376887783408165,
+        0.2786061316728592,
+        0.3372041881084442
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\360831004632_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\360831004632_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\380765445581_0.JPG",
+      "pos_features": [
+        0.34001147747039795,
+        0.5354841947555542,
+        0.4465862661600113,
+        0.42060425877571106
+      ],
+      "neg_features": [
+        0.42588597536087036,
+        0.4995349496603012,
+        0.28606294095516205,
+        0.2835003137588501
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201225201151_0.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201225201151_1.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131358942567_0.JPG",
+      "pos_features": [
+        0.47650831937789917,
+        0.5386776030063629,
+        0.7081853449344635,
+        0.5838497877120972
+      ],
+      "neg_features": [
+        0.47520220279693604,
+        0.5101608633995056,
+        0.27717550098896027,
+        0.355150043964386
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141688151296_4.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141688151296_2.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391226614675_0.JPG",
+      "pos_features": [
+        0.03831329569220543,
+        0.45079997181892395,
+        0.5739904940128326,
+        0.8007054924964905
+      ],
+      "neg_features": [
+        0.29771387577056885,
+        0.4255386143922806,
+        0.5187012106180191,
+        0.5385143458843231
+      ]
+    },
+    {
+      "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301703161314_2.JPG",
+      "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301703161314_0.JPG",
+      "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321643484876_0.JPG",
+      "pos_features": [
+        0.24016925692558289,
+        0.6607447862625122,
+        0.5112298727035522,
+        0.4727630168199539
+      ],
+      "neg_features": [
+        0.503598153591156,
+        0.5307821035385132,
+        0.5941504538059235,
+        0.407575860619545
+      ]
+    }
+  ]
+}

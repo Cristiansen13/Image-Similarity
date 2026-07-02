@@ -1,0 +1,79 @@
+[
+  {
+    "name": "near_duplicate_astronaut",
+    "category": "near_duplicate",
+    "expected": "high",
+    "maxsim": 0.9275454580783844,
+    "global": 0.9550284743309021
+  },
+  {
+    "name": "near_duplicate_coffee",
+    "category": "near_duplicate",
+    "expected": "high",
+    "maxsim": 0.9205799698829651,
+    "global": 0.902060866355896
+  },
+  {
+    "name": "same_scene_shifted_motorcycle",
+    "category": "same_scene_shifted",
+    "expected": "high",
+    "maxsim": 0.9116781055927277,
+    "global": 0.9724922180175781
+  },
+  {
+    "name": "same_scene_cropped_astronaut",
+    "category": "same_scene_cropped",
+    "expected": "high",
+    "maxsim": 0.8010420501232147,
+    "global": 0.9188312292098999
+  },
+  {
+    "name": "same_scene_cropped_coffee",
+    "category": "same_scene_cropped",
+    "expected": "medium-high",
+    "maxsim": 0.8709459602832794,
+    "global": 0.9514172673225403
+  },
+  {
+    "name": "same_object_diff_background_rocket_grass",
+    "category": "same_object_diff_background",
+    "expected": "medium",
+    "maxsim": 0.4543156772851944,
+    "global": 0.6111356019973755
+  },
+  {
+    "name": "same_object_diff_background_rocket_gravel",
+    "category": "same_object_diff_background",
+    "expected": "medium",
+    "maxsim": 0.45209042727947235,
+    "global": 0.5879788994789124
+  },
+  {
+    "name": "unrelated_astronaut_coffee",
+    "category": "unrelated",
+    "expected": "low",
+    "maxsim": 0.1805361732840538,
+    "global": 0.021580802276730537
+  },
+  {
+    "name": "unrelated_cat_coins",
+    "category": "unrelated",
+    "expected": "low",
+    "maxsim": 0.12452523037791252,
+    "global": 0.04593268781900406
+  },
+  {
+    "name": "unrelated_rocket_cat",
+    "category": "unrelated",
+    "expected": "low",
+    "maxsim": 0.10006183013319969,
+    "global": -0.002718941308557987
+  },
+  {
+    "name": "unrelated_texture_brick_grass",
+    "category": "unrelated",
+    "expected": "low",
+    "maxsim": 0.23620891571044922,
+    "global": 0.10689979791641235
+  }
+]

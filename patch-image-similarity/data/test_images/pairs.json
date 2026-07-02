@@ -1,0 +1,79 @@
+[
+  {
+    "name": "near_duplicate_astronaut",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut_dup.jpg",
+    "expected": "high",
+    "category": "near_duplicate"
+  },
+  {
+    "name": "near_duplicate_coffee",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee_dup.jpg",
+    "expected": "high",
+    "category": "near_duplicate"
+  },
+  {
+    "name": "same_scene_shifted_motorcycle",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\motorcycle_left.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\motorcycle_right.png",
+    "expected": "high",
+    "category": "same_scene_shifted"
+  },
+  {
+    "name": "same_scene_cropped_astronaut",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut_crop.png",
+    "expected": "high",
+    "category": "same_scene_cropped"
+  },
+  {
+    "name": "same_scene_cropped_coffee",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee_crop.png",
+    "expected": "medium-high",
+    "category": "same_scene_cropped"
+  },
+  {
+    "name": "same_object_diff_background_rocket_grass",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket_on_grass.png",
+    "expected": "medium",
+    "category": "same_object_diff_background"
+  },
+  {
+    "name": "same_object_diff_background_rocket_gravel",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket_on_gravel.png",
+    "expected": "medium",
+    "category": "same_object_diff_background"
+  },
+  {
+    "name": "unrelated_astronaut_coffee",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\astronaut.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coffee.png",
+    "expected": "low",
+    "category": "unrelated"
+  },
+  {
+    "name": "unrelated_cat_coins",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\cat.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\coins.png",
+    "expected": "low",
+    "category": "unrelated"
+  },
+  {
+    "name": "unrelated_rocket_cat",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\rocket.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\cat.png",
+    "expected": "low",
+    "category": "unrelated"
+  },
+  {
+    "name": "unrelated_texture_brick_grass",
+    "a": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\brick.png",
+    "b": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\test_images\\grass.png",
+    "expected": "low",
+    "category": "unrelated"
+  }
+]

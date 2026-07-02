@@ -1,0 +1,11 @@
+{
+  "n_train": 640,
+  "n_val": 160,
+  "n_test": 300,
+  "zero_shot_meanmax_test": 0.5233333333333333,
+  "zero_shot_threshold_test": 0.5533333333333333,
+  "zero_shot_threshold": 0.75,
+  "trained_meanmax_test": 0.5466666666666666,
+  "trained_threshold_test": 0.55,
+  "trained_threshold": 0.55
+}

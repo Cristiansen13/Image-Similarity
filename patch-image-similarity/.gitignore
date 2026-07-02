@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Downloaded raw datasets (multi-GB, re-fetch via download commands in README)
+data/sop_raw/
+data/cub_raw/
+data/coco_raw/
+
+# Extracted / generated / downloaded images (reproducible via scripts/*.py)
+data/**/images/
+data/test_images/*.png
+data/test_images/*.jpg
+data/triplet_images/
+data/sop_subset/
+data/sop_hard_subset/
+data/coco_confusion_images/
+
+# Large embedding tensors and trained checkpoints (reproducible via scripts/*.py)
+data/**/*.pt
+
+# Region-caption caches (paid NIM API calls -- keep locally, don't lose them, but don't push either)
+data/**/region_captions_cache*.json
+data/**/*captions_cache*.json
+
+# OS
+.DS_Store
+Thumbs.db

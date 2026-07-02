@@ -1,0 +1,1802 @@
+[
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231650409106_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231650409106_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161791219812_0.JPG",
+    "class_id": "6323"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351461512471_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351461512471_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261988727808_0.JPG",
+    "class_id": "18234"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181125796721_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181125796721_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201222222578_0.JPG",
+    "class_id": "19163"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252060616675_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252060616675_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331615118639_0.JPG",
+    "class_id": "9401"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151495154671_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151495154671_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261683772595_0.JPG",
+    "class_id": "18902"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111723109532_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111723109532_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391221402289_0.JPG",
+    "class_id": "12423"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291313921946_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291313921946_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390886790591_0.JPG",
+    "class_id": "20262"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391123730432_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391123730432_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131572715999_0.JPG",
+    "class_id": "14951"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281772672987_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281772672987_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121724714100_0.JPG",
+    "class_id": "7963"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121714088000_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121714088000_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363113118_0.JPG",
+    "class_id": "7255"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191647002561_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191647002561_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221846874673_0.JPG",
+    "class_id": "1930"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221516557202_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221516557202_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221595597132_0.JPG",
+    "class_id": "4019"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321720261863_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321720261863_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261948748556_0.JPG",
+    "class_id": "22285"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151760865020_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151760865020_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181579918976_0.JPG",
+    "class_id": "1566"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151763235198_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151763235198_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181658644685_0.JPG",
+    "class_id": "1575"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121720308083_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121720308083_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\250570222758_0.JPG",
+    "class_id": "138"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131572688666_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131572688666_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231013994212_0.JPG",
+    "class_id": "12665"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161773470016_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161773470016_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181308957093_0.JPG",
+    "class_id": "1654"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252056369899_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252056369899_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141747309931_0.JPG",
+    "class_id": "6447"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251708184735_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251708184735_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111724226181_0.JPG",
+    "class_id": "13702"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261991572100_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261991572100_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121712894940_0.JPG",
+    "class_id": "11529"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131565759745_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131565759745_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131361479597_0.JPG",
+    "class_id": "170"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251731559475_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251731559475_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390886790591_0.JPG",
+    "class_id": "19710"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111690429635_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111690429635_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261691101947_0.JPG",
+    "class_id": "7173"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191663482333_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191663482333_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252057254815_0.JPG",
+    "class_id": "21596"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151759717191_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151759717191_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121733264825_0.JPG",
+    "class_id": "8625"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221822016878_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221822016878_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281604502003_0.JPG",
+    "class_id": "2064"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221247026710_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221247026710_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191616942035_0.JPG",
+    "class_id": "17382"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321570644548_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321570644548_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231376083707_0.JPG",
+    "class_id": "4904"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281764385389_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281764385389_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131572715999_0.JPG",
+    "class_id": "14254"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271662490475_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271662490475_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381067441477_0.JPG",
+    "class_id": "4516"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291306346048_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291306346048_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381067441477_0.JPG",
+    "class_id": "4733"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231359415314_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231359415314_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\400810721831_0.JPG",
+    "class_id": "4152"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171863272125_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171863272125_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111722141372_0.JPG",
+    "class_id": "21378"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201395925291_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201395925291_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381337578150_0.JPG",
+    "class_id": "467"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321823213311_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321823213311_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301693053286_0.JPG",
+    "class_id": "12051"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261994828265_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261994828265_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171308970510_0.JPG",
+    "class_id": "11549"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131360408547_10.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131360408547_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171556335562_0.JPG",
+    "class_id": "3385"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111728878216_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111728878216_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261457300936_0.JPG",
+    "class_id": "10248"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171882195483_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171882195483_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141747543342_0.JPG",
+    "class_id": "7524"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281761250668_10.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281761250668_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371403108223_0.JPG",
+    "class_id": "816"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738484759_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738484759_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171072019891_0.JPG",
+    "class_id": "1451"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161688831420_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161688831420_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171072019891_0.JPG",
+    "class_id": "1623"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271683182907_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271683182907_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371046942780_0.JPG",
+    "class_id": "4551"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271949483444_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271949483444_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391221402289_0.JPG",
+    "class_id": "14152"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151766482672_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151766482672_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281694508357_0.JPG",
+    "class_id": "10633"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221855668072_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221855668072_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291503206750_0.JPG",
+    "class_id": "7703"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221853965858_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221853965858_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111743792206_0.JPG",
+    "class_id": "9182"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131102380139_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131102380139_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381315041906_0.JPG",
+    "class_id": "15172"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371379026569_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371379026569_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738744178_0.JPG",
+    "class_id": "12235"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331616386192_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331616386192_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321819763483_0.JPG",
+    "class_id": "16535"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301699858957_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301699858957_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131537416133_0.JPG",
+    "class_id": "6820"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121735237006_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121735237006_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231627869835_0.JPG",
+    "class_id": "7277"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281517186014_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281517186014_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390886790591_0.JPG",
+    "class_id": "20149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111678374084_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111678374084_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261903218634_0.JPG",
+    "class_id": "23"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390984584195_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390984584195_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390984584199_0.JPG",
+    "class_id": "5307"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252044555590_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252044555590_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121701581299_0.JPG",
+    "class_id": "638"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291503206750_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291503206750_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261994602926_0.JPG",
+    "class_id": "7987"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301432576038_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301432576038_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131537416133_0.JPG",
+    "class_id": "6795"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\200814663085_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\200814663085_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677813217_0.JPG",
+    "class_id": "3925"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171866031297_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171866031297_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161788566504_0.JPG",
+    "class_id": "13069"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111724666869_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111724666869_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181622226875_0.JPG",
+    "class_id": "16669"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151222603549_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151222603549_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171872542869_0.JPG",
+    "class_id": "15278"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291449354908_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291449354908_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262001648746_0.JPG",
+    "class_id": "22149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351239873413_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351239873413_9.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251725844334_0.JPG",
+    "class_id": "20601"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321819763483_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321819763483_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171879278274_0.JPG",
+    "class_id": "16494"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291516573962_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291516573962_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221846874673_0.JPG",
+    "class_id": "2646"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321601064462_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321601064462_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281517247883_0.JPG",
+    "class_id": "20465"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321828069426_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321828069426_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161788187647_0.JPG",
+    "class_id": "14699"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171664050929_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171664050929_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171701461197_0.JPG",
+    "class_id": "15487"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201400424628_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201400424628_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171872542869_0.JPG",
+    "class_id": "15859"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141734039149_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141734039149_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171308970510_0.JPG",
+    "class_id": "10527"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181787261622_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181787261622_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252058810074_0.JPG",
+    "class_id": "8909"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271549234863_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271549234863_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032290456_0.JPG",
+    "class_id": "11566"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301685816757_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301685816757_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151776218979_0.JPG",
+    "class_id": "6811"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141728384307_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141728384307_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271941275815_0.JPG",
+    "class_id": "204"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261931552244_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261931552244_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311415834424_0.JPG",
+    "class_id": "11468"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171892878037_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171892878037_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363142131_0.JPG",
+    "class_id": "5941"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121717441234_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121717441234_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151768654417_0.JPG",
+    "class_id": "15151"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301420675267_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301420675267_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221625128862_0.JPG",
+    "class_id": "20347"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191427914409_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191427914409_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271682538771_0.JPG",
+    "class_id": "3919"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221401571359_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221401571359_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390984584199_0.JPG",
+    "class_id": "4006"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321599549579_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321599549579_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231376083707_0.JPG",
+    "class_id": "4959"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321817177876_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321817177876_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311415834424_0.JPG",
+    "class_id": "12034"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111721401418_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111721401418_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181579918976_0.JPG",
+    "class_id": "1195"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121721301468_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121721301468_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381341500577_0.JPG",
+    "class_id": "12556"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261986289813_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261986289813_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\280926428953_0.JPG",
+    "class_id": "7837"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181828855892_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181828855892_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121733264825_0.JPG",
+    "class_id": "8931"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181806469125_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181806469125_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151768654417_0.JPG",
+    "class_id": "15712"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151497182060_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151497182060_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291312651553_0.JPG",
+    "class_id": "18911"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321823965212_11.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321823965212_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\370942997219_0.JPG",
+    "class_id": "2835"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331405361082_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331405361082_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221605360815_0.JPG",
+    "class_id": "20576"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151765269044_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151765269044_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161715459303_0.JPG",
+    "class_id": "10632"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252053576387_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252053576387_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181824723190_0.JPG",
+    "class_id": "6430"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171767739630_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171767739630_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251516147855_0.JPG",
+    "class_id": "7501"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151711316071_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151711316071_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161795361217_0.JPG",
+    "class_id": "8612"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252036011155_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252036011155_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381315041906_0.JPG",
+    "class_id": "16018"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191650733081_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191650733081_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311397964381_0.JPG",
+    "class_id": "13328"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271919868963_10.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271919868963_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111748332703_0.JPG",
+    "class_id": "7887"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111606588057_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111606588057_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111556695871_0.JPG",
+    "class_id": "8279"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111695244312_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111695244312_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141386910522_0.JPG",
+    "class_id": "10211"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380347560665_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380347560665_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291540091880_0.JPG",
+    "class_id": "22528"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221243553293_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221243553293_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221612273618_0.JPG",
+    "class_id": "3999"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251999861631_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251999861631_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281703018448_0.JPG",
+    "class_id": "584"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381366242968_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381366242968_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131485035714_0.JPG",
+    "class_id": "10097"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181804317097_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181804317097_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141739392261_0.JPG",
+    "class_id": "1834"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201392390811_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201392390811_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363142131_0.JPG",
+    "class_id": "6119"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231484082111_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231484082111_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391221402289_0.JPG",
+    "class_id": "13615"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221847742990_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221847742990_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121733264825_0.JPG",
+    "class_id": "9157"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261667573527_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261667573527_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171556335562_0.JPG",
+    "class_id": "4401"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252038807510_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252038807510_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171072019891_0.JPG",
+    "class_id": "2264"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321501063446_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321501063446_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251726598247_0.JPG",
+    "class_id": "20436"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111717316273_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111717316273_9.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131494456423_0.JPG",
+    "class_id": "10228"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131557015145_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131557015145_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171872542869_0.JPG",
+    "class_id": "15207"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171878364517_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171878364517_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181622226875_0.JPG",
+    "class_id": "17149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121716271511_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121716271511_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301705055230_0.JPG",
+    "class_id": "12539"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161676196522_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161676196522_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151763669740_0.JPG",
+    "class_id": "12918"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151749650121_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151749650121_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321753440570_0.JPG",
+    "class_id": "10613"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252040489325_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252040489325_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032290456_0.JPG",
+    "class_id": "11367"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251729855434_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251729855434_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\330619711729_0.JPG",
+    "class_id": "4303"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251959056846_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251959056846_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181824723190_0.JPG",
+    "class_id": "6383"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151488523961_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151488523961_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261619331589_0.JPG",
+    "class_id": "3542"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191269455225_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191269455225_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221618498994_0.JPG",
+    "class_id": "3852"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151742711082_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151742711082_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221834779899_0.JPG",
+    "class_id": "245"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\290986264870_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\290986264870_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738744178_0.JPG",
+    "class_id": "11788"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252041611931_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252041611931_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121723915362_0.JPG",
+    "class_id": "17622"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032670395_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032670395_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151762224010_0.JPG",
+    "class_id": "11357"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201409849052_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201409849052_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131537416133_0.JPG",
+    "class_id": "6160"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171878365407_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171878365407_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380347560665_0.JPG",
+    "class_id": "21392"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221831542473_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221831542473_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181459999000_0.JPG",
+    "class_id": "15899"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121721339227_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121721339227_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331618345197_0.JPG",
+    "class_id": "15162"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181822444258_10.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181822444258_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181700788203_0.JPG",
+    "class_id": "1870"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262003063034_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262003063034_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111722141372_0.JPG",
+    "class_id": "21966"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371206669106_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371206669106_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251725844334_0.JPG",
+    "class_id": "20704"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321817687523_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321817687523_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161795361217_0.JPG",
+    "class_id": "9852"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252010822667_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252010822667_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111265348817_0.JPG",
+    "class_id": "587"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281598217141_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281598217141_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161794382042_0.JPG",
+    "class_id": "9628"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231379310272_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231379310272_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381067441442_0.JPG",
+    "class_id": "4162"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251971272027_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251971272027_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281760553940_0.JPG",
+    "class_id": "6384"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\320837212775_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\320837212775_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131563831890_0.JPG",
+    "class_id": "18002"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271685984615_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271685984615_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221612273618_0.JPG",
+    "class_id": "4575"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181823324628_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181823324628_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391211722498_0.JPG",
+    "class_id": "13233"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191661720521_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191661720521_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141658395255_0.JPG",
+    "class_id": "9025"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252047390029_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252047390029_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161788187647_0.JPG",
+    "class_id": "13820"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221622619054_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221622619054_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221605360815_0.JPG",
+    "class_id": "19511"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221852454765_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221852454765_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380932397629_0.JPG",
+    "class_id": "6239"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111735135480_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111735135480_11.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151768654417_0.JPG",
+    "class_id": "15072"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151652133664_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151652133664_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261835374221_0.JPG",
+    "class_id": "1504"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371406488484_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371406488484_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\360950643743_0.JPG",
+    "class_id": "10048"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171272002878_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171272002878_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677752348_0.JPG",
+    "class_id": "19065"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171731364147_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171731364147_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131568634073_0.JPG",
+    "class_id": "319"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161475875338_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161475875338_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\400810721831_0.JPG",
+    "class_id": "3598"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331390484882_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331390484882_9.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261619331589_0.JPG",
+    "class_id": "5044"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111572613827_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111572613827_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111632601358_0.JPG",
+    "class_id": "5346"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271685807641_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271685807641_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221571963508_0.JPG",
+    "class_id": "4566"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291538293153_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291538293153_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201299111917_0.JPG",
+    "class_id": "22189"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191545148237_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191545148237_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221846874673_0.JPG",
+    "class_id": "1895"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191420617985_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191420617985_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261619331589_0.JPG",
+    "class_id": "3877"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281765872830_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281765872830_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231013994212_0.JPG",
+    "class_id": "14264"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311383607609_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311383607609_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371406488484_0.JPG",
+    "class_id": "9810"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191545696136_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191545696136_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301705055230_0.JPG",
+    "class_id": "13289"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281509927543_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281509927543_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131357628446_0.JPG",
+    "class_id": "4667"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281411727677_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281411727677_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321753440570_0.JPG",
+    "class_id": "11694"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151777222980_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151777222980_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151711565500_0.JPG",
+    "class_id": "7428"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221844279407_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221844279407_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181308957093_0.JPG",
+    "class_id": "2108"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171575863448_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171575863448_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381315041906_0.JPG",
+    "class_id": "15481"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201218812875_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201218812875_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271961487551_0.JPG",
+    "class_id": "7630"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221848025945_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221848025945_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271949483444_0.JPG",
+    "class_id": "13580"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271210982347_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271210982347_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380347560665_0.JPG",
+    "class_id": "21978"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281719257326_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281719257326_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271948368569_0.JPG",
+    "class_id": "11724"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251936030933_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251936030933_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131572715999_0.JPG",
+    "class_id": "13728"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201409139078_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201409139078_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141726936397_0.JPG",
+    "class_id": "6153"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331405361087_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331405361087_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251726598247_0.JPG",
+    "class_id": "20577"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161770179513_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161770179513_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201387978686_0.JPG",
+    "class_id": "1647"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181815373448_9.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181815373448_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331626664793_0.JPG",
+    "class_id": "6002"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321804130633_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321804130633_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161780508284_0.JPG",
+    "class_id": "18059"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251294040820_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251294040820_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\370942997219_0.JPG",
+    "class_id": "2192"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291282975592_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291282975592_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271933725478_0.JPG",
+    "class_id": "16251"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331229695643_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331229695643_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221552633849_0.JPG",
+    "class_id": "4979"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281440873096_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281440873096_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321833376119_0.JPG",
+    "class_id": "7934"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201391535891_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201391535891_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371409828642_0.JPG",
+    "class_id": "21622"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271947470057_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271947470057_10.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738744178_0.JPG",
+    "class_id": "11668"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181836370447_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181836370447_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111742850164_0.JPG",
+    "class_id": "6037"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161774624302_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161774624302_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032290456_0.JPG",
+    "class_id": "10707"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331624023700_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331624023700_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261988727808_0.JPG",
+    "class_id": "18212"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161772578073_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161772578073_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131565223749_0.JPG",
+    "class_id": "15402"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301694318091_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301694318091_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391211722498_0.JPG",
+    "class_id": "14491"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390804775125_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390804775125_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151711565500_0.JPG",
+    "class_id": "8220"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111536866682_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111536866682_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677752348_0.JPG",
+    "class_id": "18487"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271795545545_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271795545545_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738744178_0.JPG",
+    "class_id": "11587"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281604502003_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281604502003_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181579918976_0.JPG",
+    "class_id": "2540"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141488455186_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141488455186_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\321278315292_0.JPG",
+    "class_id": "18787"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271931130102_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271931130102_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281694508357_0.JPG",
+    "class_id": "11636"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151783848860_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151783848860_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151785791426_0.JPG",
+    "class_id": "7443"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271691587434_9.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271691587434_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291312651553_0.JPG",
+    "class_id": "20041"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221525842993_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221525842993_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201222222578_0.JPG",
+    "class_id": "19443"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391214028372_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391214028372_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231634624022_0.JPG",
+    "class_id": "18346"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361352349402_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361352349402_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371403108223_0.JPG",
+    "class_id": "1059"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161449862379_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161449862379_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311397964381_0.JPG",
+    "class_id": "12902"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181810351086_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181810351086_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251909779289_0.JPG",
+    "class_id": "10905"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301425273140_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301425273140_9.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141252238737_0.JPG",
+    "class_id": "20379"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121711707295_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121711707295_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381337578150_0.JPG",
+    "class_id": "122"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351245956344_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351245956344_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251725844334_0.JPG",
+    "class_id": "20620"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361284890936_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361284890936_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221846874673_0.JPG",
+    "class_id": "2967"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201392661375_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201392661375_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111748332703_0.JPG",
+    "class_id": "7645"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\270919395931_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\270919395931_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121496041372_0.JPG",
+    "class_id": "19947"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121670735203_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121670735203_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151762224010_0.JPG",
+    "class_id": "10318"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301687463553_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301687463553_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141739392261_0.JPG",
+    "class_id": "2712"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281765936557_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281765936557_6.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171891156871_0.JPG",
+    "class_id": "6697"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231211463864_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231211463864_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111726964225_0.JPG",
+    "class_id": "13604"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\400971175486_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\400971175486_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151562780818_0.JPG",
+    "class_id": "16619"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121551621719_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121551621719_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121733264825_0.JPG",
+    "class_id": "8361"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251844698376_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251844698376_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331615118639_0.JPG",
+    "class_id": "9294"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171820896118_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171820896118_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171072019891_0.JPG",
+    "class_id": "1714"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\280926428953_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\280926428953_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363113118_0.JPG",
+    "class_id": "7922"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271513918350_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271513918350_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151731940267_0.JPG",
+    "class_id": "11563"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331529603297_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331529603297_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262009556860_0.JPG",
+    "class_id": "6952"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131569575942_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131569575942_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271939455610_0.JPG",
+    "class_id": "12652"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331613635335_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331613635335_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121514518104_0.JPG",
+    "class_id": "18167"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252047251821_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252047251821_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363142131_0.JPG",
+    "class_id": "6423"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141494832766_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141494832766_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390886790591_0.JPG",
+    "class_id": "18819"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\290715649041_9.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\290715649041_10.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311414734996_0.JPG",
+    "class_id": "9690"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391220801249_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391220801249_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331624023700_0.JPG",
+    "class_id": "18381"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271950854675_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271950854675_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032290456_0.JPG",
+    "class_id": "11684"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141745160435_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141745160435_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131537416133_0.JPG",
+    "class_id": "5673"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251743039785_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251743039785_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261683772595_0.JPG",
+    "class_id": "19778"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281719000075_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281719000075_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201299111917_0.JPG",
+    "class_id": "22077"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221842841070_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221842841070_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291288558178_0.JPG",
+    "class_id": "21698"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141736862270_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141736862270_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261988316366_0.JPG",
+    "class_id": "12756"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181741184691_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181741184691_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161788187647_0.JPG",
+    "class_id": "13164"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311196780694_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311196780694_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261683772595_0.JPG",
+    "class_id": "20403"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111530807266_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111530807266_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381067441477_0.JPG",
+    "class_id": "3201"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161457562737_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161457562737_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677752348_0.JPG",
+    "class_id": "18975"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\190794383794_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\190794383794_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\380347560665_0.JPG",
+    "class_id": "21512"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151642831402_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151642831402_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391220801249_0.JPG",
+    "class_id": "16940"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271681841750_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271681841750_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301315723041_0.JPG",
+    "class_id": "20003"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262005155519_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262005155519_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291540091880_0.JPG",
+    "class_id": "21970"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390779041019_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390779041019_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141495820996_0.JPG",
+    "class_id": "20755"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281766483408_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281766483408_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181308957093_0.JPG",
+    "class_id": "2613"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331618636108_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331618636108_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111742850164_0.JPG",
+    "class_id": "6968"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261583400131_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261583400131_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251726598247_0.JPG",
+    "class_id": "19827"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311356939622_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311356939622_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\190775370473_0.JPG",
+    "class_id": "8051"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221852305244_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221852305244_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331626664793_0.JPG",
+    "class_id": "6238"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121580789739_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121580789739_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111742228700_0.JPG",
+    "class_id": "20939"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181237741147_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181237741147_11.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111735135480_0.JPG",
+    "class_id": "15593"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221838969094_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221838969094_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351465085000_0.JPG",
+    "class_id": "9146"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151765352523_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151765352523_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151763669740_0.JPG",
+    "class_id": "12847"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271923102796_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271923102796_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221849320538_0.JPG",
+    "class_id": "6601"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131358836145_9.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131358836145_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131357628446_0.JPG",
+    "class_id": "3375"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251969004779_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251969004779_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\170973569340_0.JPG",
+    "class_id": "7768"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161773318869_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161773318869_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361363113118_0.JPG",
+    "class_id": "7470"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201387242016_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201387242016_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151771343548_0.JPG",
+    "class_id": "13399"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151197143149_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151197143149_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\370942997219_0.JPG",
+    "class_id": "1467"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251461378806_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251461378806_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\390984584199_0.JPG",
+    "class_id": "4226"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131280122626_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131280122626_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161791219812_0.JPG",
+    "class_id": "5551"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262005663175_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\262005663175_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331618636108_0.JPG",
+    "class_id": "6544"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351233578562_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351233578562_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261661470825_0.JPG",
+    "class_id": "5113"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261975647598_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261975647598_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271933725478_0.JPG",
+    "class_id": "16089"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151748576274_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151748576274_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161795361217_0.JPG",
+    "class_id": "8619"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221655975497_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221655975497_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191655460271_0.JPG",
+    "class_id": "2036"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361355121753_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\361355121753_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391221402289_0.JPG",
+    "class_id": "14857"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201018117753_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201018117753_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171072019891_0.JPG",
+    "class_id": "1954"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221845471666_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221845471666_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121715785166_0.JPG",
+    "class_id": "21702"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351471621315_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351471621315_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141738744178_0.JPG",
+    "class_id": "12165"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301315723041_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301315723041_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151494448086_0.JPG",
+    "class_id": "20308"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261388689454_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261388689454_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301315723041_0.JPG",
+    "class_id": "19811"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291495048752_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291495048752_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231509983925_0.JPG",
+    "class_id": "9704"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261868304485_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261868304485_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331618345197_0.JPG",
+    "class_id": "16069"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281510069114_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281510069114_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331393809779_0.JPG",
+    "class_id": "4670"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201387039543_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\201387039543_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221834443868_0.JPG",
+    "class_id": "15840"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261661470825_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261661470825_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\400810721831_0.JPG",
+    "class_id": "4393"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231645088818_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231645088818_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311415834424_0.JPG",
+    "class_id": "11288"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381097762538_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\381097762538_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181824723190_0.JPG",
+    "class_id": "7099"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261957520965_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261957520965_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151037002607_0.JPG",
+    "class_id": "16076"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252033617192_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252033617192_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151763669740_0.JPG",
+    "class_id": "13771"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371404208847_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371404208847_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171879278274_0.JPG",
+    "class_id": "16581"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351262272666_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\351262272666_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151762224010_0.JPG",
+    "class_id": "12146"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171886645714_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171886645714_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331624924180_0.JPG",
+    "class_id": "13128"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371282589232_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\371282589232_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141739392261_0.JPG",
+    "class_id": "2987"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252040565282_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252040565282_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121701581299_0.JPG",
+    "class_id": "619"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252045476411_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252045476411_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\111726964225_0.JPG",
+    "class_id": "13806"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191601905445_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191601905445_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181805478219_0.JPG",
+    "class_id": "17274"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301384052825_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\301384052825_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131537416133_0.JPG",
+    "class_id": "6792"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251961499285_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\251961499285_9.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311415834424_0.JPG",
+    "class_id": "11325"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291529163410_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\291529163410_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141739392261_0.JPG",
+    "class_id": "2666"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311410437548_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\311410437548_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261988727808_0.JPG",
+    "class_id": "17995"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252028582376_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252028582376_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\151037002607_0.JPG",
+    "class_id": "16008"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331404458616_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331404458616_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677752348_0.JPG",
+    "class_id": "20562"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331404661519_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\331404661519_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221435872291_0.JPG",
+    "class_id": "20568"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231262522774_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\231262522774_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221552633849_0.JPG",
+    "class_id": "4148"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171556249856_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\171556249856_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271682538771_0.JPG",
+    "class_id": "3718"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271911340196_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271911340196_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\121524584464_0.JPG",
+    "class_id": "17782"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261824653281_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261824653281_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131563831890_0.JPG",
+    "class_id": "17666"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\310661960304_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\310661960304_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\271677813217_0.JPG",
+    "class_id": "4844"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131571591274_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\131571591274_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261988316366_0.JPG",
+    "class_id": "12659"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221557323253_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\221557323253_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\281753726541_0.JPG",
+    "class_id": "11137"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191645866301_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191645866301_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\252032290456_0.JPG",
+    "class_id": "11014"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161768544538_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\161768544538_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\181809124795_0.JPG",
+    "class_id": "5808"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191241747048_8.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\191241747048_11.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\261994602926_0.JPG",
+    "class_id": "7595"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391223971884_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\391223971884_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_split\\images\\141747309931_0.JPG",
+    "class_id": "7138"
+  }
+]

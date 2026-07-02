@@ -1,0 +1,282 @@
+[
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141634564354_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141634564354_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161788524457_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 12698 (super_class 8); mined negative class 12995; global_sim(anchor,positive)=0.836 global_sim(anchor,negative)=0.535"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795400304_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795400304_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261776860850_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 5863 (super_class 4); mined negative class 6477; global_sim(anchor,positive)=0.510 global_sim(anchor,negative)=0.709"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161768840495_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161768840495_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191647224539_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 15393 (super_class 9); mined negative class 15800; global_sim(anchor,positive)=0.740 global_sim(anchor,negative)=0.816"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181774898027_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181774898027_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161775403916_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 1815 (super_class 2); mined negative class 1659; global_sim(anchor,positive)=0.807 global_sim(anchor,negative)=0.531"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\311385254406_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\311385254406_7.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261993054419_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 2756 (super_class 2); mined negative class 2388; global_sim(anchor,positive)=0.066 global_sim(anchor,negative)=0.444"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201075055209_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201075055209_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391219218657_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 21603 (super_class 12); mined negative class 22579; global_sim(anchor,positive)=0.596 global_sim(anchor,negative)=0.433"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161494410437_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161494410437_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231400950736_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 3625 (super_class 3); mined negative class 4192; global_sim(anchor,positive)=0.926 global_sim(anchor,negative)=0.682"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281765366748_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281765366748_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\221836241003_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 14260 (super_class 8); mined negative class 13543; global_sim(anchor,positive)=0.736 global_sim(anchor,negative)=0.271"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231645552451_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231645552451_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321821630915_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 2188 (super_class 2); mined negative class 2829; global_sim(anchor,positive)=0.726 global_sim(anchor,negative)=0.377"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301424808348_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301424808348_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161476110079_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 20367 (super_class 11); mined negative class 18980; global_sim(anchor,positive)=0.080 global_sim(anchor,negative)=0.137"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121731753706_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121731753706_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271334992529_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 8427 (super_class 6); mined negative class 9534; global_sim(anchor,positive)=0.717 global_sim(anchor,negative)=0.688"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141605933989_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141605933989_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131556270861_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 1387 (super_class 2); mined negative class 1340; global_sim(anchor,positive)=0.852 global_sim(anchor,negative)=0.539"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121498809137_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\121498809137_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\371194334834_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 3293 (super_class 3); mined negative class 5188; global_sim(anchor,positive)=0.677 global_sim(anchor,negative)=0.671"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782637167_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782637167_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391214005364_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 17068 (super_class 10); mined negative class 18345; global_sim(anchor,positive)=0.486 global_sim(anchor,negative)=0.735"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321797619465_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321797619465_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321818361733_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 16426 (super_class 9); mined negative class 16444; global_sim(anchor,positive)=0.918 global_sim(anchor,negative)=0.649"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\291528469655_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\291528469655_8.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191588881212_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 2663 (super_class 2); mined negative class 1903; global_sim(anchor,positive)=0.504 global_sim(anchor,negative)=0.788"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261979456789_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261979456789_4.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141747065010_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 9472 (super_class 6); mined negative class 8571; global_sim(anchor,positive)=0.145 global_sim(anchor,negative)=0.825"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151370432068_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151370432068_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301007566359_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 3491 (super_class 3); mined negative class 4758; global_sim(anchor,positive)=0.660 global_sim(anchor,negative)=0.761"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301714388003_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301714388003_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321828469756_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 22241 (super_class 12); mined negative class 22327; global_sim(anchor,positive)=0.334 global_sim(anchor,negative)=0.205"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111732293536_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111732293536_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261963614847_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 16681 (super_class 10); mined negative class 17692; global_sim(anchor,positive)=0.619 global_sim(anchor,negative)=0.637"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252022965243_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252022965243_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\110715681235_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 2233 (super_class 2); mined negative class 1149; global_sim(anchor,positive)=0.275 global_sim(anchor,negative)=0.521"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301400604936_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301400604936_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\231400950736_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 4788 (super_class 3); mined negative class 4192; global_sim(anchor,positive)=0.484 global_sim(anchor,negative)=0.482"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795361217_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161795361217_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\111169942421_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 8764 (super_class 6); mined negative class 8262; global_sim(anchor,positive)=0.480 global_sim(anchor,negative)=0.835"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261962122335_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261962122335_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\261993054419_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 2347 (super_class 2); mined negative class 2388; global_sim(anchor,positive)=0.901 global_sim(anchor,negative)=0.786"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171706326214_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171706326214_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191647224539_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 15503 (super_class 9); mined negative class 15800; global_sim(anchor,positive)=0.333 global_sim(anchor,negative)=0.909"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181820695724_7.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181820695724_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\151595219115_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 1860 (super_class 2); mined negative class 1490; global_sim(anchor,positive)=0.684 global_sim(anchor,negative)=0.587"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161520577724_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161520577724_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301478453226_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 8687 (super_class 6); mined negative class 9747; global_sim(anchor,positive)=0.435 global_sim(anchor,negative)=0.502"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171876889982_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\171876889982_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321821630915_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 1750 (super_class 2); mined negative class 2829; global_sim(anchor,positive)=0.756 global_sim(anchor,negative)=0.565"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361363557855_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361363557855_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\361345943616_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 22482 (super_class 12); mined negative class 22433; global_sim(anchor,positive)=0.706 global_sim(anchor,negative)=0.496"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\370263819353_5.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\370263819353_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\310558730751_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 5164 (super_class 3); mined negative class 4842; global_sim(anchor,positive)=0.512 global_sim(anchor,negative)=0.302"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252030453326_1.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\252030453326_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321825124881_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 11350 (super_class 7); mined negative class 12056; global_sim(anchor,positive)=0.506 global_sim(anchor,negative)=0.429"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321819466730_3.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321819466730_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\181796381128_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 16470 (super_class 9); mined negative class 15693; global_sim(anchor,positive)=0.873 global_sim(anchor,negative)=0.736"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131582726309_6.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131582726309_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\191663171744_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 5608 (super_class 4); mined negative class 6091; global_sim(anchor,positive)=0.342 global_sim(anchor,negative)=0.625"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\251715752084_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\251715752084_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301683685071_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 21816 (super_class 12); mined negative class 22219; global_sim(anchor,positive)=0.755 global_sim(anchor,negative)=0.612"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271683182907_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\271683182907_5.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\281193607329_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 4551 (super_class 3); mined negative class 4582; global_sim(anchor,positive)=0.103 global_sim(anchor,negative)=0.918"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\331396804077_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\331396804077_3.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\161782108277_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 12075 (super_class 7); mined negative class 10731; global_sim(anchor,positive)=0.362 global_sim(anchor,negative)=0.256"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\360831004632_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\360831004632_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\380765445581_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 7043 (super_class 4); mined negative class 7090; global_sim(anchor,positive)=0.340 global_sim(anchor,negative)=0.426"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201225201151_0.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\201225201151_1.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\131358942567_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 3973 (super_class 3); mined negative class 3377; global_sim(anchor,positive)=0.477 global_sim(anchor,negative)=0.475"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141688151296_4.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\141688151296_2.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\391226614675_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 7351 (super_class 5); mined negative class 8241; global_sim(anchor,positive)=0.038 global_sim(anchor,negative)=0.298"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301703161314_2.JPG",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\301703161314_0.JPG",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\sop_hard_subset\\321643484876_0.JPG",
+    "type": "sop_hard_mined",
+    "note": "SOP class 14502 (super_class 8); mined negative class 14595; global_sim(anchor,positive)=0.240 global_sim(anchor,negative)=0.504"
+  }
+]

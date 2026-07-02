@@ -1,0 +1,1802 @@
+[
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0044_96028.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0066_95495.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0006_100989.jpg",
+    "class_id": "101"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0080_95721.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0076_96427.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0038_153087.jpg",
+    "class_id": "101"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0009_97340.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0079_97380.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0068_150526.jpg",
+    "class_id": "101"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0057_795040.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0074_98282.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0058_98798.jpg",
+    "class_id": "102"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0030_98272.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0011_98205.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0058_98798.jpg",
+    "class_id": "102"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0049_98263.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0070_98225.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0058_98798.jpg",
+    "class_id": "102"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0061_98375.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0085_99503.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0001_98045.jpg",
+    "class_id": "103"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0133_99129.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0100_98782.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0001_98045.jpg",
+    "class_id": "103"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0111_98406.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\103.Sayornis/Sayornis_0020_98727.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0001_98045.jpg",
+    "class_id": "103"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0072_99631.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0031_99607.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0026_155646.jpg",
+    "class_id": "104"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0062_100000.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0002_100023.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0026_155646.jpg",
+    "class_id": "104"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0046_100240.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0124_99848.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0014_172542.jpg",
+    "class_id": "104"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0033_82166.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0020_100396.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0035_796158.jpg",
+    "class_id": "105"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0022_796438.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0048_796417.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "105"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0034_796413.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\105.Whip_poor_Will/Whip_Poor_Will_0009_796423.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "105"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0062_100693.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0028_100765.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "106"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0033_100731.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0060_100726.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0024_96554.jpg",
+    "class_id": "106"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0051_101048.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\106.Horned_Puffin/Horned_Puffin_0048_100916.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\101.White_Pelican/White_Pelican_0024_96554.jpg",
+    "class_id": "106"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0023_102437.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0017_102044.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0005_102653.jpg",
+    "class_id": "107"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0099_102534.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0007_102020.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0005_102653.jpg",
+    "class_id": "107"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0066_101461.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0061_102519.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0005_102653.jpg",
+    "class_id": "107"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0008_797389.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "108"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0031_102686.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0056_797373.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "108"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0016_797385.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\108.White_necked_Raven/White_Necked_Raven_0018_102746.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "108"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0047_102860.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0128_102983.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0107_161214.jpg",
+    "class_id": "109"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0126_103091.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0055_103750.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0015_174847.jpg",
+    "class_id": "109"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0002_103723.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0066_102774.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0107_161214.jpg",
+    "class_id": "109"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0107_104534.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0075_104334.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "110"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0006_104523.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0134_104196.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "110"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0050_104506.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\110.Geococcyx/Geococcyx_0065_104806.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "110"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0108_105023.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0039_106367.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0050_797012.jpg",
+    "class_id": "111"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0116_105286.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0114_104960.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0050_797012.jpg",
+    "class_id": "111"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0084_105919.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0103_105137.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0050_797012.jpg",
+    "class_id": "111"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0004_797041.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0014_797044.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0051_105447.jpg",
+    "class_id": "112"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0062_106628.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0064_106778.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0051_105447.jpg",
+    "class_id": "112"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0071_106861.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\112.Great_Grey_Shrike/Great_Grey_Shrike_0056_106752.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\111.Loggerhead_Shrike/Loggerhead_Shrike_0051_105447.jpg",
+    "class_id": "112"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0031_794580.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0011_794577.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "113"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0039_794591.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0047_787318.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "113"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0007_794563.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0001_794578.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "113"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0066_106974.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0084_107066.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0055_190967.jpg",
+    "class_id": "114"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0008_107000.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0040_107172.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0050_111087.jpg",
+    "class_id": "114"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0019_107192.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0011_107115.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0013_794837.jpg",
+    "class_id": "114"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0011_796708.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0005_107443.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0107_113659.jpg",
+    "class_id": "115"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0043_107479.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0058_796701.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0056_796585.jpg",
+    "class_id": "115"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0034_796693.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0018_107437.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0107_113659.jpg",
+    "class_id": "115"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0008_107810.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0066_109187.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "116"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0018_108295.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0045_109985.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "116"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0004_108430.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0010_109760.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "116"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0062_110908.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0023_797258.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0073_107518.jpg",
+    "class_id": "117"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0078_110912.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0043_110685.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0073_107518.jpg",
+    "class_id": "117"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0071_110656.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0068_110706.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg",
+    "class_id": "117"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0028_113217.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0049_110976.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0074_124408.jpg",
+    "class_id": "118"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0106_111564.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0093_110990.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0074_124408.jpg",
+    "class_id": "118"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0050_111087.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\118.House_Sparrow/House_Sparrow_0059_111164.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0074_124408.jpg",
+    "class_id": "118"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0104_113524.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0034_113364.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0016_109051.jpg",
+    "class_id": "119"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0090_113613.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0029_113434.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0073_107518.jpg",
+    "class_id": "119"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0131_113582.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0009_113860.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0074_124408.jpg",
+    "class_id": "119"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0012_115324.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0026_115281.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "class_id": "120"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0047_115022.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0104_114908.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "class_id": "120"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0041_115218.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0010_114728.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0056_796585.jpg",
+    "class_id": "120"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0017_115908.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0119_116081.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "121"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0041_116288.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0018_116056.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg",
+    "class_id": "121"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\121.Grasshopper_Sparrow/Grasshopper_Sparrow_0009_115984.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0073_107518.jpg",
+    "class_id": "121"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0085_116534.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0067_116707.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0107_113659.jpg",
+    "class_id": "122"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0039_116409.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0066_116362.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\120.Fox_Sparrow/Fox_Sparrow_0124_114662.jpg",
+    "class_id": "122"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0060_116576.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\122.Harris_Sparrow/Harris_Sparrow_0033_116380.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\115.Brewer_Sparrow/Brewer_Sparrow_0073_107518.jpg",
+    "class_id": "122"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0055_796557.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0100_796565.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "123"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0002_116930.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0018_116834.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0070_795135.jpg",
+    "class_id": "123"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0027_796543.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0015_796593.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0070_795135.jpg",
+    "class_id": "123"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0023_795156.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0006_795146.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0056_796585.jpg",
+    "class_id": "124"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0053_795187.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0086_795170.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0022_117759.jpg",
+    "class_id": "124"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0010_795166.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0041_795218.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0022_117759.jpg",
+    "class_id": "124"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0038_117461.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0010_117263.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0070_795135.jpg",
+    "class_id": "125"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0131_117277.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0087_117444.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "class_id": "125"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0094_117762.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0083_117272.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "125"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0044_796932.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0039_118074.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0070_795135.jpg",
+    "class_id": "126"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0054_796936.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0034_796950.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\124.Le_Conte_Sparrow/Le_Conte_Sparrow_0070_795135.jpg",
+    "class_id": "126"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0016_118077.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0025_796945.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0022_117759.jpg",
+    "class_id": "126"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0059_119810.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0025_119124.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "class_id": "127"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0132_119962.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0124_118820.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0022_117759.jpg",
+    "class_id": "127"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0064_119316.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0080_118120.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0022_125719.jpg",
+    "class_id": "127"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0032_120767.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0042_796528.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0026_155646.jpg",
+    "class_id": "128"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0051_796522.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0050_796508.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "class_id": "128"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0071_796519.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\128.Seaside_Sparrow/Seaside_Sparrow_0025_796518.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0041_796926.jpg",
+    "class_id": "128"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0036_121679.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0101_120920.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0056_796585.jpg",
+    "class_id": "129"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0042_121314.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0050_121514.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\125.Lincoln_Sparrow/Lincoln_Sparrow_0022_117759.jpg",
+    "class_id": "129"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0010_121331.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\129.Song_Sparrow/Song_Sparrow_0001_122169.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\123.Henslow_Sparrow/Henslow_Sparrow_0056_796585.jpg",
+    "class_id": "129"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0105_123227.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0007_122911.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\119.Field_Sparrow/Field_Sparrow_0107_113659.jpg",
+    "class_id": "130"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0046_125344.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0025_124233.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0016_109051.jpg",
+    "class_id": "130"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0034_123799.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0041_123497.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0016_109051.jpg",
+    "class_id": "130"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0030_125663.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0013_109937.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "131"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0046_125575.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0031_125631.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\127.Savannah_Sparrow/Savannah_Sparrow_0093_118267.jpg",
+    "class_id": "131"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0081_125541.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\131.Vesper_Sparrow/Vesper_Sparrow_0051_125587.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\130.Tree_Sparrow/Tree_Sparrow_0074_124408.jpg",
+    "class_id": "131"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0118_127919.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0068_126156.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0008_110536.jpg",
+    "class_id": "132"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0071_127922.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0061_126315.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0008_110536.jpg",
+    "class_id": "132"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0113_128095.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0114_127027.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\116.Chipping_Sparrow/Chipping_Sparrow_0016_109051.jpg",
+    "class_id": "132"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0073_129110.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0085_129180.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "133"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0032_128866.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0075_128990.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "133"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0118_129084.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0109_129066.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\132.White_crowned_Sparrow/White_Crowned_Sparrow_0031_126457.jpg",
+    "class_id": "133"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0084_129346.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0091_129470.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "134"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0018_129356.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0026_129288.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "134"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0088_129437.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\134.Cape_Glossy_Starling/Cape_Glossy_Starling_0068_129446.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\107.Common_Raven/Common_Raven_0015_101364.jpg",
+    "class_id": "134"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0028_129754.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0063_129774.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "135"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0040_129674.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0061_129484.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "135"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0043_129685.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0027_129503.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "135"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0017_132951.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0038_132780.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0016_129791.jpg",
+    "class_id": "136"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0070_130127.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0052_131539.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0073_133116.jpg",
+    "class_id": "136"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0030_130191.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0085_132939.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\135.Bank_Swallow/Bank_Swallow_0016_129791.jpg",
+    "class_id": "136"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0075_134516.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0100_133665.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "137"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0066_133206.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0046_133165.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "137"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0089_133545.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\137.Cliff_Swallow/Cliff_Swallow_0049_132965.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "137"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0019_137073.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0050_135104.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "138"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0092_136236.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0060_134961.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "138"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0113_136849.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\138.Tree_Swallow/Tree_Swallow_0061_134712.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\136.Barn_Swallow/Barn_Swallow_0074_132094.jpg",
+    "class_id": "138"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0120_138344.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0017_138484.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0093_139517.jpg",
+    "class_id": "139"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0095_137618.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0121_138255.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0093_139517.jpg",
+    "class_id": "139"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0079_138669.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0089_138281.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0093_139517.jpg",
+    "class_id": "139"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0124_139963.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0063_139743.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0003_137724.jpg",
+    "class_id": "140"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0091_139602.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0018_139290.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0003_137724.jpg",
+    "class_id": "140"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0035_139561.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\140.Summer_Tanager/Summer_Tanager_0037_140330.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\139.Scarlet_Tanager/Scarlet_Tanager_0003_137724.jpg",
+    "class_id": "140"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0107_141181.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0034_142022.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "141"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0050_140887.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0105_141098.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0038_153087.jpg",
+    "class_id": "141"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0046_140986.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0029_142220.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "141"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0059_144159.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0037_144110.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "142"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0107_144661.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0010_144341.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "142"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0014_143939.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\142.Black_Tern/Black_Tern_0019_144680.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0038_153087.jpg",
+    "class_id": "142"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0116_145607.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0101_145164.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "143"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0117_146009.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0051_145930.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0011_143355.jpg",
+    "class_id": "143"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0106_147645.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0013_145553.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0068_150526.jpg",
+    "class_id": "143"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0092_147779.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0004_148977.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0060_152190.jpg",
+    "class_id": "144"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0053_148472.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0097_148874.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0023_147194.jpg",
+    "class_id": "144"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0063_147789.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0064_148761.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0038_153087.jpg",
+    "class_id": "144"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0072_150911.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0082_150517.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0023_147194.jpg",
+    "class_id": "145"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0004_150948.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0106_150872.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "145"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0006_150963.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\145.Elegant_Tern/Elegant_Tern_0085_151091.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0038_153087.jpg",
+    "class_id": "145"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0109_152094.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0080_152521.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\141.Artic_Tern/Artic_Tern_0011_143355.jpg",
+    "class_id": "146"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0003_151547.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0029_151228.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "146"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0066_151478.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\146.Forsters_Tern/Forsters_Tern_0070_152107.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "146"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0098_153820.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0056_153965.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0023_147194.jpg",
+    "class_id": "147"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0016_153560.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0008_153313.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\143.Caspian_Tern/Caspian_Tern_0023_147194.jpg",
+    "class_id": "147"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0088_152941.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\147.Least_Tern/Least_Tern_0014_153757.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\144.Common_Tern/Common_Tern_0012_148477.jpg",
+    "class_id": "147"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0001_797412.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0043_797430.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\133.White_throated_Sparrow/White_Throated_Sparrow_0033_129016.jpg",
+    "class_id": "148"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0035_154888.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0066_797439.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0054_795387.jpg",
+    "class_id": "148"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0010_797431.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\148.Green_tailed_Towhee/Green_Tailed_Towhee_0064_154771.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\114.Black_throated_Sparrow/Black_Throated_Sparrow_0013_107005.jpg",
+    "class_id": "148"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0021_155160.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0049_155110.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0025_177403.jpg",
+    "class_id": "149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0015_155165.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0046_155154.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0026_155646.jpg",
+    "class_id": "149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0052_155254.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\149.Brown_Thrasher/Brown_Thrasher_0070_155343.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0026_155646.jpg",
+    "class_id": "149"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0079_155718.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0095_796446.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0020_177149.jpg",
+    "class_id": "150"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0045_155448.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0103_155575.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0073_99642.jpg",
+    "class_id": "150"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0018_796443.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\150.Sage_Thrasher/Sage_Thrasher_0097_155564.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\104.American_Pipit/American_Pipit_0073_99642.jpg",
+    "class_id": "150"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0015_797450.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0041_797452.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0039_156397.jpg",
+    "class_id": "151"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0008_797454.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0052_797487.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0039_156397.jpg",
+    "class_id": "151"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0019_797479.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\151.Black_capped_Vireo/Black_Capped_Vireo_0024_155905.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0020_795903.jpg",
+    "class_id": "151"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0123_156443.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0119_156259.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0059_159225.jpg",
+    "class_id": "152"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0098_156348.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0022_156184.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "152"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0065_156260.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0086_156244.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0059_159225.jpg",
+    "class_id": "152"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0022_156546.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0008_156551.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0007_158717.jpg",
+    "class_id": "153"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0040_794764.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0039_794794.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0126_157179.jpg",
+    "class_id": "153"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0012_794785.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0071_794796.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "153"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0023_156800.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0106_157102.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0020_156663.jpg",
+    "class_id": "154"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0046_157265.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0003_157226.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\153.Philadelphia_Vireo/Philadelphia_Vireo_0020_156663.jpg",
+    "class_id": "154"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0133_156668.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0043_157162.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0015_174847.jpg",
+    "class_id": "154"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0102_158704.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0132_158420.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0001_98045.jpg",
+    "class_id": "155"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0016_158681.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0001_158397.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0023_174717.jpg",
+    "class_id": "155"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0079_158791.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0004_158376.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0059_159225.jpg",
+    "class_id": "155"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0032_159145.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0042_159012.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\102.Western_Wood_Pewee/Western_Wood_Pewee_0001_98045.jpg",
+    "class_id": "156"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0091_159045.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0059_159225.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0039_156397.jpg",
+    "class_id": "156"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0049_158835.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0019_159095.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0039_156397.jpg",
+    "class_id": "156"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0078_159694.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0028_795008.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0101_171501.jpg",
+    "class_id": "157"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0002_159625.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0079_159576.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0015_174847.jpg",
+    "class_id": "157"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0080_794990.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0034_794993.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\156.White_eyed_Vireo/White_Eyed_Vireo_0059_159225.jpg",
+    "class_id": "157"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0076_159996.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0011_159736.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0126_164090.jpg",
+    "class_id": "158"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0039_797152.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0042_797160.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0126_164090.jpg",
+    "class_id": "158"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0062_159783.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0068_797133.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0126_164090.jpg",
+    "class_id": "158"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0041_160639.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0060_160764.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "159"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0010_160200.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0127_160031.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "159"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0025_160584.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\159.Black_and_white_Warbler/Black_And_White_Warbler_0073_160539.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0018_797183.jpg",
+    "class_id": "159"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0002_161533.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0085_161621.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0018_797183.jpg",
+    "class_id": "160"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0027_104004.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0137_161207.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0013_794837.jpg",
+    "class_id": "160"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0102_161161.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0110_161726.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0110_103924.jpg",
+    "class_id": "160"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0030_162088.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0071_161900.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "161"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0023_161774.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0036_161758.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "161"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0044_161760.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0057_162085.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "161"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0005_162389.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0013_162375.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0075_167419.jpg",
+    "class_id": "162"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0064_162417.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0099_162425.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "162"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0075_162428.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\162.Canada_Warbler/Canada_Warbler_0032_162229.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg",
+    "class_id": "162"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0062_162955.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0100_162923.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "163"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0040_163036.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0088_163149.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "163"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0003_162920.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0128_162971.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "163"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0090_797195.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0010_797210.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0126_164090.jpg",
+    "class_id": "164"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0045_797217.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0072_163200.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "164"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0017_797198.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0067_797220.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "164"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0128_163696.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0057_163957.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0018_797183.jpg",
+    "class_id": "165"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0073_163868.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0008_164001.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\164.Cerulean_Warbler/Cerulean_Warbler_0018_797183.jpg",
+    "class_id": "165"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0037_164233.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0016_164060.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\152.Blue_headed_Vireo/Blue_Headed_Vireo_0039_156397.jpg",
+    "class_id": "165"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0081_164487.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0021_794821.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "166"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0031_794840.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0066_794803.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "166"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0083_794801.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0077_164432.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0126_164090.jpg",
+    "class_id": "166"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0016_164837.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0072_22097.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg",
+    "class_id": "167"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0096_164739.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0008_164641.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "167"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0129_90165.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0001_164704.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\109.American_Redstart/American_Redstart_0110_103924.jpg",
+    "class_id": "167"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0042_165268.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0005_795919.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0055_190967.jpg",
+    "class_id": "168"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0071_165342.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0082_795869.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "168"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0033_165271.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\168.Kentucky_Warbler/Kentucky_Warbler_0049_165313.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "168"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0120_165462.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0004_165535.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0013_794837.jpg",
+    "class_id": "169"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0067_165484.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0066_166184.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\166.Golden_winged_Warbler/Golden_Winged_Warbler_0013_794837.jpg",
+    "class_id": "169"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0054_165965.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0040_165921.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0014_172542.jpg",
+    "class_id": "169"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0036_166432.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0024_795363.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "170"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0055_166436.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0067_795353.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "170"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0034_795384.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\170.Mourning_Warbler/Mourning_Warbler_0031_166494.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "170"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0086_166926.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0091_166762.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "171"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0098_166794.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0037_166690.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "171"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0032_166847.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\171.Myrtle_Warbler/Myrtle_Warbler_0101_166942.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "171"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0126_167274.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0103_167455.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "172"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0051_167250.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0036_167461.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "172"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0006_167497.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0104_167096.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "172"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0032_167589.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0067_167588.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "173"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0066_167949.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0006_167998.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0075_167419.jpg",
+    "class_id": "173"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0079_168372.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0011_167615.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0134_168943.jpg",
+    "class_id": "173"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0050_170042.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0054_169175.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0014_172542.jpg",
+    "class_id": "174"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0046_169837.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0113_170080.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0014_172542.jpg",
+    "class_id": "174"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0083_170281.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0020_168857.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0014_172542.jpg",
+    "class_id": "174"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0091_171627.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0088_170980.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\161.Blue_winged_Warbler/Blue_Winged_Warbler_0094_161790.jpg",
+    "class_id": "175"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0113_172456.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0004_171215.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "175"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0102_171147.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\175.Pine_Warbler/Pine_Warbler_0075_171933.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0031_159712.jpg",
+    "class_id": "175"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0078_172729.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0002_172622.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "176"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0133_173279.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0109_172909.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\163.Cape_May_Warbler/Cape_May_Warbler_0084_163132.jpg",
+    "class_id": "176"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0052_173400.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\176.Prairie_Warbler/Prairie_Warbler_0123_172603.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\169.Magnolia_Warbler/Magnolia_Warbler_0102_165884.jpg",
+    "class_id": "176"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0098_173913.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0022_174138.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "177"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0054_174556.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0063_173830.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "177"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0008_173425.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\177.Prothonotary_Warbler/Prothonotary_Warbler_0018_174196.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "177"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0033_794856.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0030_794864.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0039_176120.jpg",
+    "class_id": "178"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0055_794899.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0005_794888.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\154.Red_eyed_Vireo/Red_Eyed_Vireo_0126_157179.jpg",
+    "class_id": "178"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0047_794870.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0042_794895.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0039_176120.jpg",
+    "class_id": "178"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0096_174993.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0081_174771.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\155.Warbling_Vireo/Warbling_Vireo_0007_158717.jpg",
+    "class_id": "179"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0050_174851.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0063_168561.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "179"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0041_174900.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\179.Tennessee_Warbler/Tennessee_Warbler_0019_174786.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\174.Palm_Warbler/Palm_Warbler_0134_168943.jpg",
+    "class_id": "179"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0027_175290.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0064_175361.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "180"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0041_175464.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0133_175626.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\172.Nashville_Warbler/Nashville_Warbler_0075_167419.jpg",
+    "class_id": "180"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0076_175780.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0106_176383.jpg",
+    "class_id": "180"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0067_795520.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0002_795533.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0023_174717.jpg",
+    "class_id": "181"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0057_176006.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0101_795557.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0023_174717.jpg",
+    "class_id": "181"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0042_795571.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0050_176150.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\178.Swainson_Warbler/Swainson_Warbler_0023_174717.jpg",
+    "class_id": "181"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0018_176674.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0044_176367.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0126_168445.jpg",
+    "class_id": "182"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0073_176218.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0004_176947.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg",
+    "class_id": "182"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0093_176490.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\182.Yellow_Warbler/Yellow_Warbler_0101_176864.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg",
+    "class_id": "182"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0093_177141.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0079_177008.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0025_177403.jpg",
+    "class_id": "183"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0060_177213.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0084_177239.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0025_177403.jpg",
+    "class_id": "183"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0072_177121.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0020_177149.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0025_177403.jpg",
+    "class_id": "183"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0019_177062.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0045_795274.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0020_177149.jpg",
+    "class_id": "184"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0066_795259.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0044_177526.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0020_177149.jpg",
+    "class_id": "184"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0025_177403.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\184.Louisiana_Waterthrush/Louisiana_Waterthrush_0076_795257.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\183.Northern_Waterthrush/Northern_Waterthrush_0020_177149.jpg",
+    "class_id": "184"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0078_796649.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0114_177621.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0037_179710.jpg",
+    "class_id": "185"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0113_177823.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0062_796683.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0037_179710.jpg",
+    "class_id": "185"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0002_177986.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0004_796652.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0037_179710.jpg",
+    "class_id": "185"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0076_178732.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0028_179724.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0114_177621.jpg",
+    "class_id": "186"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0096_178164.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0013_178830.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0114_177621.jpg",
+    "class_id": "186"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0103_179559.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\186.Cedar_Waxwing/Cedar_Waxwing_0004_179215.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\185.Bohemian_Waxwing/Bohemian_Waxwing_0114_177621.jpg",
+    "class_id": "186"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0022_179933.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0045_796148.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0043_184314.jpg",
+    "class_id": "187"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0025_179918.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0039_796168.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "187"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0009_179919.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0047_796185.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "187"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0059_180177.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0034_180419.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "188"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0004_180307.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0078_180236.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "188"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0065_180324.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\188.Pileated_Woodpecker/Pileated_Woodpecker_0053_179960.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "188"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0112_180827.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0017_181131.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "189"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0022_181969.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0086_181891.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "189"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0095_180948.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0010_180772.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "189"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0002_794696.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0055_182520.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0035_796158.jpg",
+    "class_id": "190"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0003_794695.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0014_794718.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0035_796158.jpg",
+    "class_id": "190"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0016_182493.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0008_794753.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0043_184314.jpg",
+    "class_id": "190"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0071_183132.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0109_183385.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0123_182116.jpg",
+    "class_id": "191"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0097_182903.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0084_183004.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0123_182116.jpg",
+    "class_id": "191"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0085_182703.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0038_183280.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0123_182116.jpg",
+    "class_id": "191"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0082_183922.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0132_184408.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "192"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0056_183913.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0007_184051.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0035_796158.jpg",
+    "class_id": "192"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0033_184636.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\192.Downy_Woodpecker/Downy_Woodpecker_0100_184584.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0063_794726.jpg",
+    "class_id": "192"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0068_184895.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0104_185256.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "193"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0106_185013.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0004_185202.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "193"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0056_184834.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0099_185288.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "193"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0067_186034.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "194"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0066_186028.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0044_185492.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "194"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0103_185506.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0088_185873.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "194"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0019_186527.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0090_186942.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "195"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0108_186089.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0035_186356.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0049_185339.jpg",
+    "class_id": "195"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0119_186153.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0128_186581.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "195"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0133_187101.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0098_187368.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "196"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0091_188046.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0088_187243.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "196"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0004_187448.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0122_187331.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "196"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0058_188107.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0108_188788.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\193.Bewick_Wren/Bewick_Wren_0049_185339.jpg",
+    "class_id": "197"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0036_188374.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0102_188654.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "197"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0008_188533.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0119_188404.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0118_189805.jpg",
+    "class_id": "197"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0104_189161.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0025_188897.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\197.Marsh_Wren/Marsh_Wren_0119_188404.jpg",
+    "class_id": "198"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0012_189021.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0041_189227.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\194.Cactus_Wren/Cactus_Wren_0123_186068.jpg",
+    "class_id": "198"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0029_189145.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\198.Rock_Wren/Rock_Wren_0023_189075.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\181.Worm_eating_Warbler/Worm_Eating_Warbler_0039_176120.jpg",
+    "class_id": "198"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0113_189558.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0130_189531.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "199"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0112_189507.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0063_189543.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\195.Carolina_Wren/Carolina_Wren_0122_186365.jpg",
+    "class_id": "199"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0117_189999.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\199.Winter_Wren/Winter_Wren_0077_190366.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\196.House_Wren/House_Wren_0072_187899.jpg",
+    "class_id": "199"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0114_190501.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0045_190563.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "200"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0039_190513.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0121_190597.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "200"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0004_190606.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\200.Common_Yellowthroat/Common_Yellowthroat_0090_190503.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\cub_raw\\CUB_200_2011\\images\\167.Hooded_Warbler/Hooded_Warbler_0085_164846.jpg",
+    "class_id": "200"
+  }
+]
