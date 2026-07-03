@@ -28,10 +28,35 @@ import time
 import torch
 
 
-def run(cmd, cwd, env, log_path, kill_after_cache=False):
+def wait_for_file_stable(path, poll_interval=5, stable_checks=2, max_wait=600):
+    """Polls path's size until it stops growing for `stable_checks` consecutive
+    polls (torch.save on a ~22GB SOP cache can take well over a minute -- the
+    eval script prints "Saving..." BEFORE the write finishes, so a fixed sleep
+    is not reliable; a truncated read raises EOFError). Bails out after
+    max_wait as a safety net rather than hanging forever."""
+    waited = 0
+    last_size = -1
+    stable_count = 0
+    while waited < max_wait:
+        if os.path.exists(path):
+            size = os.path.getsize(path)
+            if size == last_size and size > 0:
+                stable_count += 1
+                if stable_count >= stable_checks:
+                    return True
+            else:
+                stable_count = 0
+            last_size = size
+        time.sleep(poll_interval)
+        waited += poll_interval
+    return False
+
+
+def run(cmd, cwd, env, log_path, kill_after_cache=False, cache_path=None):
     """Runs cmd, streaming to log_path. If kill_after_cache, terminates the
-    process as soon as "Saving embeddings to cache" appears (used to skip
-    SOP's expensive brute-force pass -- see module docstring)."""
+    process once "Saving embeddings to cache" appears AND cache_path's size has
+    stabilized (used to skip SOP's expensive brute-force pass -- see module
+    docstring)."""
     with open(log_path, "w") as logf:
         proc = subprocess.Popen(cmd, cwd=cwd, env=env, stdout=subprocess.PIPE,
                                  stderr=subprocess.STDOUT, text=True, bufsize=1)
@@ -39,7 +64,10 @@ def run(cmd, cwd, env, log_path, kill_after_cache=False):
             logf.write(line)
             logf.flush()
             if kill_after_cache and "Saving embeddings to cache" in line:
-                time.sleep(5)  # let the save actually finish writing to disk
+                if cache_path:
+                    wait_for_file_stable(cache_path)
+                else:
+                    time.sleep(5)
                 proc.terminate()
                 proc.wait(timeout=30)
                 return 0
@@ -144,11 +172,11 @@ def run_one_seed(ds, root, hf_home, out_base, seed, log_dir):
         return None
 
     ckpt = f"{out_dir}/backbone_final.pt"
+    cache_path = f"{out_dir}/{ds['cache_name']}"
     print(f"[{ds['name']} seed={seed}] evaluating (encode + cache)...")
     run(ds["eval_cmd"](ckpt), cwd, env, f"{log_dir}/{ds['name']}_seed{seed}_eval.log",
-        kill_after_cache=ds["skip_brute_force"])
+        kill_after_cache=ds["skip_brute_force"], cache_path=cache_path)
 
-    cache_path = f"{out_dir}/{ds['cache_name']}"
     if not os.path.exists(cache_path):
         print(f"[{ds['name']} seed={seed}] embeddings cache missing, skipping two-stage")
         return None
@@ -178,12 +206,12 @@ def run_zero_shot(ds, root, hf_home, out_base, log_dir):
     env["HF_HOME"] = hf_home
     cwd = f"{root}/patch-image-similarity"
 
-    print(f"[{ds['name']} zero-shot] evaluating...")
-    run(ds["eval_cmd"]("zero-shot"), cwd, env, f"{log_dir}/{ds['name']}_zeroshot_eval.log",
-        kill_after_cache=ds["skip_brute_force"])
     # zero-shot cache is written relative to the eval script's CWD (cwd, not this
     # driver's own CWD) per its os.path.dirname("zero-shot") == "" logic.
     written_cache_path = f"{cwd}/{ds['cache_name']}"
+    print(f"[{ds['name']} zero-shot] evaluating...")
+    run(ds["eval_cmd"]("zero-shot"), cwd, env, f"{log_dir}/{ds['name']}_zeroshot_eval.log",
+        kill_after_cache=ds["skip_brute_force"], cache_path=written_cache_path)
     if not os.path.exists(written_cache_path):
         print(f"[{ds['name']} zero-shot] cache not found at {written_cache_path}, skipping")
         return None
@@ -217,7 +245,12 @@ def main():
     os.makedirs(log_dir, exist_ok=True)
 
     builders = {"cub": cub_dataset, "cars": cars_dataset, "sop": sop_dataset}
+    results_path = f"{out_base}/results_so_far.json"
     all_results = {}
+    if os.path.exists(results_path):
+        with open(results_path) as f:
+            all_results = json.load(f)
+        print(f"Resuming: loaded existing results for {list(all_results.keys())} from {results_path}")
 
     for name in args.datasets:
         ds = builders[name](args.root)
