@@ -129,12 +129,12 @@ def sop_dataset(root):
     }
 
 
-def run_one_seed(ds, root, out_base, seed, log_dir):
+def run_one_seed(ds, root, hf_home, out_base, seed, log_dir):
     out_dir = f"{out_base}/{ds['name']}_seed{seed}"
     os.makedirs(out_dir, exist_ok=True)
     env = os.environ.copy()
     env["HF_HUB_OFFLINE"] = "1"
-    env["HF_HOME"] = f"{root}/.hf_home"
+    env["HF_HOME"] = hf_home
     cwd = f"{root}/patch-image-similarity"
 
     print(f"[{ds['name']} seed={seed}] training...")
@@ -170,12 +170,12 @@ def run_one_seed(ds, root, out_base, seed, log_dir):
     return result
 
 
-def run_zero_shot(ds, root, out_base, log_dir):
+def run_zero_shot(ds, root, hf_home, out_base, log_dir):
     out_dir = f"{out_base}/{ds['name']}_zeroshot"
     os.makedirs(out_dir, exist_ok=True)
     env = os.environ.copy()
     env["HF_HUB_OFFLINE"] = "1"
-    env["HF_HOME"] = f"{root}/.hf_home"
+    env["HF_HOME"] = hf_home
     cwd = f"{root}/patch-image-similarity"
 
     print(f"[{ds['name']} zero-shot] evaluating...")
@@ -205,6 +205,7 @@ def run_zero_shot(ds, root, out_base, log_dir):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", default="/workspace/image-similarity")
+    ap.add_argument("--hf-home", default="/workspace/.hf_home")
     ap.add_argument("--out-base", default=None)
     ap.add_argument("--log-dir", default=None)
     ap.add_argument("--datasets", nargs="+", default=["cub", "cars", "sop"])
@@ -222,13 +223,13 @@ def main():
         ds = builders[name](args.root)
         all_results[name] = {"zero_shot": None, "seeds": []}
 
-        zs = run_zero_shot(ds, args.root, out_base, log_dir)
+        zs = run_zero_shot(ds, args.root, args.hf_home, out_base, log_dir)
         all_results[name]["zero_shot"] = zs
         print(f"[{name} zero-shot] {zs}")
 
         for seed in ds["seeds"]:
             t0 = time.time()
-            result = run_one_seed(ds, args.root, out_base, seed, log_dir)
+            result = run_one_seed(ds, args.root, args.hf_home, out_base, seed, log_dir)
             elapsed = time.time() - t0
             print(f"[{name} seed={seed}] done in {elapsed:.0f}s: {result}")
             if result is not None:
