@@ -96,7 +96,7 @@ def main():
         Q = q_end - q_start
         
         # Best scores and indices for these queries
-        best_scores = torch.full((Q,), -1000.0, device=device)
+        best_scores = torch.full((Q,), -1000.0, device=device, dtype=torch.bfloat16)
         best_idx = torch.zeros((Q,), dtype=torch.long, device=device)
         
         for c_start in range(0, N, cand_chunk_size):
