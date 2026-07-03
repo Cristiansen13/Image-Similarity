@@ -59,23 +59,29 @@ def main():
         print("Evaluating ZERO-SHOT model.")
     model.eval()
 
-    print("Encoding all test images...")
-    # Pre-allocate tensor for all embeddings on CPU to avoid GPU OOM, 
-    # we'll move chunks to GPU during retrieval.
-    # Shape: (N, 256, 768)
     N = len(test_images)
-    all_embeddings = torch.zeros((N, 256, 768), dtype=torch.bfloat16)
-    
     paths = [img["path"] for img in test_images]
     classes = [img["class_id"] for img in test_images]
-    
-    for i in tqdm(range(0, N, args.batch_size)):
-        batch_paths = paths[i:i + args.batch_size]
-        images = [Image.open(os.path.join(args.images_root, p)).convert("RGB").resize((IMAGE_SIZE, IMAGE_SIZE)) for p in batch_paths]
-        pixel_values = processor(images=images, return_tensors="pt")["pixel_values"].to(device)
-        with torch.autocast(device_type="cuda", dtype=torch.bfloat16):
-            patches = model(pixel_values)
-        all_embeddings[i:i+len(batch_paths)] = patches.cpu()
+
+    emb_cache_path = os.path.join(os.path.dirname(args.checkpoint) if args.checkpoint != "zero-shot" else ".", "all_embeddings_cache.pt")
+    if os.path.exists(emb_cache_path):
+        print("Loading cached embeddings...")
+        all_embeddings = torch.load(emb_cache_path)
+    else:
+        print("Encoding all test images...")
+        all_embeddings = torch.zeros((N, 256, 768), dtype=torch.bfloat16)
+        
+        
+        
+        for i in tqdm(range(0, N, args.batch_size)):
+            batch_paths = paths[i:i + args.batch_size]
+            images = [Image.open(os.path.join(args.images_root, p)).convert("RGB").resize((IMAGE_SIZE, IMAGE_SIZE)) for p in batch_paths]
+            pixel_values = processor(images=images, return_tensors="pt")["pixel_values"].to(device)
+            with torch.autocast(device_type="cuda", dtype=torch.bfloat16):
+                patches = model(pixel_values)
+            all_embeddings[i:i+len(batch_paths)] = patches.cpu()
+        print("Saving embeddings to cache...")
+        torch.save(all_embeddings, emb_cache_path)
         
     print("Computing Recall@1 using chunked MaxSim...")
     # To find Recall@1, for each query we need the class of the closest *other* image.
@@ -99,7 +105,7 @@ def main():
             
             # Compute MaxSim: q_embs x c_embs
             # sim = (Q, C, 256, 256)
-            sim = torch.einsum("qpd,cqd->qcpq", q_embs, c_embs)
+            sim = torch.einsum("qpd,crd->qcpr", q_embs, c_embs)
             a_to_b = sim.max(dim=3).values.mean(dim=2)  # (Q, C)
             b_to_a = sim.max(dim=2).values.mean(dim=2)  # (Q, C)
             scores = 0.5 * (a_to_b + b_to_a)  # (Q, C)
