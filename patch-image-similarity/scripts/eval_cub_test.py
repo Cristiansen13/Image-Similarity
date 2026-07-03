@@ -91,7 +91,7 @@ def main():
         
     print("Computing Recall@1 using chunked MaxSim...")
     hits_1 = 0
-    query_chunk_size = 128
+    query_chunk_size = 32
     cand_chunk_size = 4096
     
     best_scores = torch.full((N,), -1000.0, device=device, dtype=torch.bfloat16)
