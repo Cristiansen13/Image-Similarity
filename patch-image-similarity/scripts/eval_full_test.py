@@ -130,9 +130,9 @@ def main():
     best_idx = best_idx.cpu().tolist()
     for i in range(N):
         query_class = classes[i]
-            pred_class = classes[best_idx[i]]
-            if query_class == pred_class:
-                hits_1 += 1
+        pred_class = classes[best_idx[i]]
+        if query_class == pred_class:
+            hits_1 += 1
 
     recall_1 = hits_1 / N
     print(f"\nFinal Full-Set Recall@1: {recall_1:.4f} ({hits_1}/{N})")
