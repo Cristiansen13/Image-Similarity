@@ -25,7 +25,12 @@ def load_cars_test(cars_dir):
     names_path = os.path.join(cars_dir, "names.csv")
     with open(names_path) as f:
         class_names = [line.strip() for line in f if line.strip()]
-    name_to_id = {name: str(i + 1) for i, name in enumerate(class_names)}
+    # class folder names replace "/" with "-" (filesystem-safe), e.g. names.csv's
+    # "Ram C/V Cargo Van Minivan 2012" -> folder "Ram C-V Cargo Van Minivan 2012"
+    name_to_id = {}
+    for i, name in enumerate(class_names):
+        name_to_id[name] = str(i + 1)
+        name_to_id[name.replace("/", "-")] = str(i + 1)
 
     by_class = defaultdict(list)
     car_data_root = os.path.join(cars_dir, "car_data", "car_data")
