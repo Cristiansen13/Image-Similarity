@@ -75,14 +75,18 @@ def main():
     print(f"Loading labels ({args.dataset})...")
     classes = load_ebay_test(args.labels_path) if args.dataset == "sop" else load_cub_test(args.labels_path)
     print(f"Loading cached patch embeddings from {args.embeddings_cache}...")
-    all_embeddings = torch.load(args.embeddings_cache).to(device)  # (N, P, D) bf16, L2-normalized per patch
+    # Kept on CPU -- at (N, 256, 768) bf16 this is ~22GB for SOP's 60502 images,
+    # far too big to keep resident on a 24GB GPU alongside working buffers. Only
+    # small per-chunk slices are moved to GPU below, same pattern as eval_full_test.py.
+    all_embeddings = torch.load(args.embeddings_cache)  # (N, P, D) bf16, L2-normalized per patch
     N = all_embeddings.shape[0]
     assert N == len(classes), f"embedding count {N} != label count {len(classes)}"
     classes_t = torch.tensor([hash(c) for c in classes], device=device)
 
     print("Building stage-1 global embeddings (mean-pooled patches, re-normalized)...")
     t_stage1_build = time.time()
-    global_embs = torch.nn.functional.normalize(all_embeddings.float().mean(dim=1), dim=-1)  # (N, D)
+    # (N, D) is tiny (~185MB for SOP) -- fine to keep resident on GPU for fast stage-1 matmuls.
+    global_embs = torch.nn.functional.normalize(all_embeddings.float().mean(dim=1), dim=-1).to(device)
     stage1_build_time = time.time() - t_stage1_build
 
     K = args.top_k
@@ -106,9 +110,16 @@ def main():
         stage1_ceiling_hits += (cand_classes == query_classes).any(dim=1).sum().item()
 
         # --- Stage 2: exact MaxSim rerank over the K candidates only ---
-        q_patches = all_embeddings[q_start:q_end]  # (Qb, P, D)
-        cand_patches = all_embeddings[topk_idx]  # (Qb, K, P, D)
-        sim2 = torch.einsum("qpd,qkrd->qkpr", q_patches.float(), cand_patches.float())  # (Qb,K,P,P)
+        P = all_embeddings.shape[1]
+        q_patches = all_embeddings[q_start:q_end].to(device).float()  # (Qb, P, D)
+        cand_patches = all_embeddings[topk_idx.cpu()].to(device).float()  # (Qb, K, P, D)
+        # Explicit bmm (not einsum) to guarantee the standard batched-matmul kernel is
+        # used -- einsum's automatic contraction-path selection on this shared-batch +
+        # extra-free-dim pattern was materializing a huge (Qb,K,P,P,D) intermediate
+        # instead of a proper bmm, causing a 44GB allocation attempt.
+        cand_flat = cand_patches.reshape(Qb, -1, cand_patches.shape[-1])  # (Qb, K*P, D)
+        sim_flat = torch.bmm(q_patches, cand_flat.transpose(1, 2))  # (Qb, P, K*P)
+        sim2 = sim_flat.view(Qb, P, K, P).permute(0, 2, 1, 3)  # (Qb, K, P, P)
         a_to_b = sim2.max(dim=3).values.mean(dim=2)  # (Qb, K)
         b_to_a = sim2.max(dim=2).values.mean(dim=2)  # (Qb, K)
         scores = 0.5 * (a_to_b + b_to_a)
