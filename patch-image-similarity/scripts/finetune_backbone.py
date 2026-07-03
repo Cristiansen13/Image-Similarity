@@ -86,7 +86,22 @@ def load_ebay_index(ebay_info_path):
     return by_class
 
 
-def sample_batch(by_class, classes, images_root, processor, P, K, rng):
+AUG_SIZE = 256  # resize larger than IMAGE_SIZE, then random-crop down -- gives crop jitter room
+
+def load_image(path, images_root, rng, augment):
+    img = Image.open(os.path.join(images_root, path)).convert("RGB")
+    if augment:
+        img = img.resize((AUG_SIZE, AUG_SIZE))
+        max_off = AUG_SIZE - IMAGE_SIZE
+        x, y = rng.randint(0, max_off), rng.randint(0, max_off)
+        img = img.crop((x, y, x + IMAGE_SIZE, y + IMAGE_SIZE))
+        if rng.random() < 0.5:
+            img = img.transpose(Image.FLIP_LEFT_RIGHT)
+    else:
+        img = img.resize((IMAGE_SIZE, IMAGE_SIZE))
+    return img
+
+def sample_batch(by_class, classes, images_root, processor, P, K, rng, augment=False):
     chosen = rng.sample(classes, P)
     paths, labels = [], []
     for c in chosen:
@@ -94,8 +109,7 @@ def sample_batch(by_class, classes, images_root, processor, P, K, rng):
         imgs = rng.sample(pool, min(K, len(pool)))
         paths.extend(imgs)
         labels.extend([c] * len(imgs))
-    images = [Image.open(os.path.join(images_root, p)).convert("RGB").resize((IMAGE_SIZE, IMAGE_SIZE))
-              for p in paths]
+    images = [load_image(p, images_root, rng, augment) for p in paths]
     pixel_values = processor(images=images, return_tensors="pt")["pixel_values"]
     return pixel_values, labels
 
@@ -134,6 +148,8 @@ def main():
     ap.add_argument("--eval-every", type=int, default=100)
     ap.add_argument("--out-dir", default="checkpoints")
     ap.add_argument("--seed", type=int, default=0)
+    ap.add_argument("--augment", action="store_true", help="random-crop + hflip training images")
+    ap.add_argument("--lr-schedule", action="store_true", help="cosine LR decay over --steps")
     args = ap.parse_args()
 
     torch.manual_seed(args.seed)
@@ -160,13 +176,15 @@ def main():
     trainable_params = [p for p in model.parameters() if p.requires_grad]
     opt = torch.optim.AdamW(trainable_params, lr=args.lr, weight_decay=1e-4)
     scaler = torch.amp.GradScaler("cuda")
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(opt, T_max=args.steps) if args.lr_schedule else None
 
-    print(f"\nTraining: P={args.P} K={args.K} batch={args.P * args.K}  steps={args.steps}  lr={args.lr}")
+    print(f"\nTraining: P={args.P} K={args.K} batch={args.P * args.K}  steps={args.steps}  lr={args.lr}  "
+          f"augment={args.augment}  lr_schedule={args.lr_schedule}")
     t0 = time.time()
     running_loss = 0.0
     for step in range(1, args.steps + 1):
         pixel_values, labels = sample_batch(by_class, train_classes, args.images_root, processor,
-                                             args.P, args.K, rng)
+                                             args.P, args.K, rng, augment=args.augment)
         pixel_values = pixel_values.to(device)
 
         opt.zero_grad()
@@ -179,11 +197,14 @@ def main():
         torch.nn.utils.clip_grad_norm_(trainable_params, 1.0)
         scaler.step(opt)
         scaler.update()
+        if scheduler is not None:
+            scheduler.step()
 
         running_loss += loss.item()
         if step % 20 == 0:
             elapsed = time.time() - t0
-            print(f"  step {step:5d}/{args.steps}  loss={running_loss / 20:.4f}  "
+            cur_lr = opt.param_groups[0]["lr"]
+            print(f"  step {step:5d}/{args.steps}  loss={running_loss / 20:.4f}  lr={cur_lr:.2e}  "
                   f"({elapsed:.0f}s, {step / elapsed:.2f} steps/s)")
             running_loss = 0.0
 
