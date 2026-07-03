@@ -89,19 +89,18 @@ def main():
     query_chunk_size = 8
     cand_chunk_size = 4096
     
-    # We will do this by chunking queries and candidates
-    for q_start in tqdm(range(0, N, query_chunk_size)):
-        q_end = min(N, q_start + query_chunk_size)
-        q_embs = all_embeddings[q_start:q_end].to(device)  # (Q, 256, 768)
-        Q = q_end - q_start
+    # We will swap loops: outer loop is candidates (transferred 15 times), inner is queries.
+    best_scores = torch.full((N,), -1000.0, device=device, dtype=torch.bfloat16)
+    best_idx = torch.zeros((N,), dtype=torch.long, device=device)
+    
+    for c_start in tqdm(range(0, N, cand_chunk_size), desc="Candidate chunks"):
+        c_end = min(N, c_start + cand_chunk_size)
+        c_embs = all_embeddings[c_start:c_end].to(device)  # (C, 256, 768)
         
-        # Best scores and indices for these queries
-        best_scores = torch.full((Q,), -1000.0, device=device, dtype=torch.bfloat16)
-        best_idx = torch.zeros((Q,), dtype=torch.long, device=device)
-        
-        for c_start in range(0, N, cand_chunk_size):
-            c_end = min(N, c_start + cand_chunk_size)
-            c_embs = all_embeddings[c_start:c_end].to(device)  # (C, 256, 768)
+        for q_start in range(0, N, query_chunk_size):
+            q_end = min(N, q_start + query_chunk_size)
+            q_embs = all_embeddings[q_start:q_end].to(device)  # (Q, 256, 768)
+            Q = q_end - q_start
             
             # Compute MaxSim: q_embs x c_embs
             # sim = (Q, C, 256, 256)
@@ -120,14 +119,17 @@ def main():
             chunk_best_scores, chunk_best_idx = scores.max(dim=1)
             
             # Update global bests
-            update_mask = chunk_best_scores > best_scores
-            best_scores[update_mask] = chunk_best_scores[update_mask]
-            best_idx[update_mask] = chunk_best_idx[update_mask] + c_start
+            current_best_scores = best_scores[q_start:q_end]
+            update_mask = chunk_best_scores > current_best_scores
             
-        # Check hits
-        best_idx = best_idx.cpu().tolist()
-        for i in range(Q):
-            query_class = classes[q_start + i]
+            # We must use clone or index assignment carefully
+            best_scores[q_start:q_end] = torch.where(update_mask, chunk_best_scores, current_best_scores)
+            best_idx[q_start:q_end] = torch.where(update_mask, chunk_best_idx + c_start, best_idx[q_start:q_end])
+            
+    # Check hits
+    best_idx = best_idx.cpu().tolist()
+    for i in range(N):
+        query_class = classes[i]
             pred_class = classes[best_idx[i]]
             if query_class == pred_class:
                 hits_1 += 1
