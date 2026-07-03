@@ -120,7 +120,10 @@ def evaluate(model, processor, eval_triplets, device):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ebay-info", required=True)
+    ap.add_argument("--ebay-info", required=True,
+                     help="Path to Ebay_train.txt (official train split ONLY -- "
+                          "must NOT be Ebay_info.txt, which also contains test classes "
+                          "and would leak them into training)")
     ap.add_argument("--images-root", required=True)
     ap.add_argument("--eval-triplets", default=None, help="JSON file of {anchor,positive,negative} triplets")
     ap.add_argument("--unfreeze-last-n", type=int, default=4)
@@ -138,14 +141,11 @@ def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     os.makedirs(args.out_dir, exist_ok=True)
 
-    print("Loading SOP index...")
+    print("Loading SOP train index (official split -- disjoint from Ebay_test.txt)...")
     by_class = load_ebay_index(args.ebay_info)
-    eligible = [c for c, imgs in by_class.items() if len(imgs) >= args.K]
-    rng.shuffle(eligible)
-    split_point = int(len(eligible) * 0.9)
-    train_classes, holdout_classes = eligible[:split_point], eligible[split_point:]
-    print(f"{len(train_classes)} train classes, {len(holdout_classes)} held-out classes "
-          f"(held out for future eval, not used here)")
+    train_classes = [c for c, imgs in by_class.items() if len(imgs) >= args.K]
+    print(f"{len(train_classes)} official train classes (no holdout split needed here -- "
+          f"Ebay_test.txt is already class-disjoint and used for the real held-out eval)")
 
     processor = AutoImageProcessor.from_pretrained(MODEL_NAME, use_fast=True)
     processor.size = {"height": IMAGE_SIZE, "width": IMAGE_SIZE}
