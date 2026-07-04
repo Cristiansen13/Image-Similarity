@@ -251,7 +251,8 @@ def main():
             pos_vs_conf = float(np.mean(np.array(pos) > np.array(conf)))
             coco_results[s]["effect_size"].append(eff)
             coco_results[s]["pos_vs_conf"].append(pos_vs_conf)
-        print(f"  COCO effect_size this seed: {[f'{s}={coco_results[s][\"effect_size\"][-1]:.3f}' for s in scorers]}")
+        effect_size_strs = [f"{s}={coco_results[s]['effect_size'][-1]:.3f}" for s in scorers]
+        print(f"  COCO effect_size this seed: {effect_size_strs}")
 
     print("\n" + "=" * 70)
     print(f"FINAL RESULTS (n={args.n_seeds} seeds, mean +/- 95% CI)")
