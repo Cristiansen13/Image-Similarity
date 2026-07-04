@@ -47,11 +47,14 @@ TEST_TEMPLATES_IDX = list(range(10, 16))  # last 6, never seen during gate train
 
 
 class Encoder:
-    def __init__(self, device="cuda" if torch.cuda.is_available() else "cpu"):
+    def __init__(self, checkpoint=None, device="cuda" if torch.cuda.is_available() else "cpu"):
         self.device = device
         self.processor = AutoImageProcessor.from_pretrained(MODEL_NAME, use_fast=True)
         self.processor.size = {"height": IMAGE_SIZE, "width": IMAGE_SIZE}
         self.model = AutoModel.from_pretrained(MODEL_NAME).to(device).eval()
+        if checkpoint:
+            self.model.load_state_dict(torch.load(checkpoint, map_location=device))
+            print(f"Loaded fine-tuned checkpoint: {checkpoint}")
 
     @torch.no_grad()
     def encode(self, path):
@@ -257,10 +260,16 @@ def main():
     ap.add_argument("--n-cars-test", type=int, default=200)
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--steps", type=int, default=500)
+    ap.add_argument("--checkpoint", default=None,
+                     help="Optional fine-tuned backbone checkpoint. Score distributions shift "
+                          "when the backbone changes, so a gate trained on one backbone's "
+                          "scores does NOT transfer to another -- always retrain/recalibrate "
+                          "the gate on the SAME backbone it will be deployed with.")
+    ap.add_argument("--out-suffix", default="")
     args = ap.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    encoder = Encoder(device)
+    encoder = Encoder(checkpoint=args.checkpoint, device=device)
     cache = {}
 
     print("Building training pairs: CUB classes 1-100 + COCO train templates...")
@@ -317,13 +326,13 @@ def main():
         print(f"  {name:32s}: learned={r['learned_gate']:.4f}  hand-tuned={r['hand_tuned']:.4f}  (n={r['n_pairs']})")
 
     out_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                             "data", "learned_gate_results.json")
+                             "data", f"learned_gate_results{args.out_suffix}.json")
     with open(out_path, "w") as f:
         json.dump(results, f, indent=2)
     print(f"\nSaved to {out_path}")
 
     model_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                               "data", "learned_gate.pt")
+                               "data", f"learned_gate{args.out_suffix}.pt")
     torch.save({"state_dict": gate.state_dict(), "mean": mean.tolist(), "std": std.tolist()}, model_path)
     print(f"Saved gate model to {model_path}")
 
