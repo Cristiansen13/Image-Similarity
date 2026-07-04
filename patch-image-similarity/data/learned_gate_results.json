@@ -1,0 +1,17 @@
+{
+  "CUB (held-out classes)": {
+    "learned_gate": 0.9499750137329102,
+    "hand_tuned": 0.9459999799728394,
+    "n_pairs": 400
+  },
+  "COCO (held-out templates)": {
+    "learned_gate": 1.0,
+    "hand_tuned": 1.0,
+    "n_pairs": 24
+  },
+  "CARS196 (fully unseen domain)": {
+    "learned_gate": 0.8554499745368958,
+    "hand_tuned": 0.6518999934196472,
+    "n_pairs": 400
+  }
+}
