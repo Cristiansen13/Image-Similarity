@@ -67,10 +67,12 @@ def main():
     clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
     clip_model.eval()
 
-    patch, clip_emb, cap_emb = {}, {}, {}
+    patch, dino_global, clip_emb, cap_emb = {}, {}, {}, {}
     print(f"Encoding {len(all_paths)} images...")
     for i, p in enumerate(all_paths):
-        patch[p] = encoder.encode(p).patch_embeddings
+        encoded = encoder.encode(p)
+        patch[p] = encoded.patch_embeddings
+        dino_global[p] = encoded.global_embedding
         image = Image.open(p).convert("RGB")
         with torch.no_grad():
             feat = clip_model.get_image_features(**clip_proc(images=image, return_tensors="pt"))
@@ -88,6 +90,7 @@ def main():
 
     scorers = {
         "clip_global": lambda a, b: global_cosine(clip_emb[a], clip_emb[b]),
+        "dinov2_global": lambda a, b: global_cosine(dino_global[a], dino_global[b]),
         "vision_maxsim": V,
         "caption_maxsim": C,
         "hybrid_geometric": lambda a, b: math.sqrt(max(V(a, b), 0) * max(C(a, b), 0)),

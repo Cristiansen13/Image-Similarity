@@ -54,6 +54,24 @@
     "type": "coco_confusion"
   },
   {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\295713.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\295713_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\140987.jpg",
+    "structure": "(standing|sitting) on (a|an|the) (bench|chair|table)",
+    "anchor_caption": "A statue is sitting on a bench and a woman sits on a cement block.",
+    "negative_caption": "A girl sitting on a chair in front of a pepperoni pizza.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\209222.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\209222_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\73533.jpg",
+    "structure": "(standing|sitting) on (a|an|the) (bench|chair|table)",
+    "anchor_caption": "A man sitting on a bench in a park.",
+    "negative_caption": "Two young boys sitting on a bench texting on their cell phones.",
+    "type": "coco_confusion"
+  },
+  {
     "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\102411.jpg",
     "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\102411_aug.jpg",
     "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\553776.jpg",
@@ -105,6 +123,78 @@
     "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
     "anchor_caption": "A child in a helmet and safety pads riding a skateboard.",
     "negative_caption": "A man in a jean jacket riding a motorcycle on a road.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\404249.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\404249_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\380706.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A kid in a camo shirt riding a skateboard down the street.",
+    "negative_caption": "A man riding a motorcycle down a city street.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\455555.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\455555_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\206487.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A boy riding a skateboard on a sidewalk as another laughs in the background.",
+    "negative_caption": "A man riding a motorcycle with a woman on back of it.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\172649.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\172649_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\446651.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A boy is riding a skateboard on a wall.",
+    "negative_caption": "A man an a girl riding a motorcycle on a city street.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\106912.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\106912_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\38829.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A young boy riding a skateboard across a parking lot.",
+    "negative_caption": "A man riding a bicycle with a boy on the back of it.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\454798.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\454798_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\190756.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "there is a young boy that is riding a horse",
+    "negative_caption": "A man flying through the air while riding a bike.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\360661.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\360661_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\492362.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A couple of jockey's riding the horses through the beach.",
+    "negative_caption": "A young man riding a skateboard with red wheels.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\394510.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\394510_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\144333.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A young boy riding a skateboard on a sidewalk",
+    "negative_caption": "A woman riding a bike with a basket on it.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\187990.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\187990_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\461751.jpg",
+    "structure": "riding (a|an|the) (bike|bicycle|motorcycle|horse|skateboard)",
+    "anchor_caption": "A boy is riding a skateboard on a ramp.",
+    "negative_caption": "A man is riding a motorcycle on a city street.",
     "type": "coco_confusion"
   },
   {
@@ -162,6 +252,132 @@
     "type": "coco_confusion"
   },
   {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\459272.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\459272_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\210789.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman holding a smart phone next to a group of people.",
+    "negative_caption": "An adult standing behind a little girl while holding an umbrella.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\232563.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\232563_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\453981.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A man in a black jacket holding a zebra print umbrella.",
+    "negative_caption": "A mother black bear holding a baby black bear.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\389812.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\389812_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\7088.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A man standing holding a bunch of bananas.",
+    "negative_caption": "A little girl is holding an umbrella on a wet day.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\383606.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\383606_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458255.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A man holding a camera reflected in a bathroom mirror that sits above a sink and next to a door.",
+    "negative_caption": "A little girl laying in bed holding a book next to a black cat.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\187249.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\187249_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\281754.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A tv on with a man holding a knife at a guy's head and a bottle of mineral water in the foreground",
+    "negative_caption": "a child holding an umbrella with a person near him",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\284698.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\284698_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\68409.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "The image of a man holding a camera is in this motorcycle side mirror.",
+    "negative_caption": "A  group of boys in suits holding a chalkboard.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458992.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458992_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\408120.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman holding a knife and fork over a giant pizza.",
+    "negative_caption": "A small girl is holding an umbrella over her head",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\222118.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\222118_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\9448.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman holding a purse and a cellphone.",
+    "negative_caption": "A girl in a pink shirt holding a blue umbrella.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\333745.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\333745_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\328337.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman holding an umbrella walks past the side of a bus with a large advertisement on the side.",
+    "negative_caption": "A little boy wearing a red shirt holding a white frisbee.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\346703.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\346703_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\437205.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A series of images showing a man holding a spoon over a lit candle, then serving a cake with it.",
+    "negative_caption": "a close up of a child holding a banana",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\370486.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\370486_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\407298.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "a woman holding a colorful striped umbrella",
+    "negative_caption": "A happy little boy holding a baseball with a baseball glove.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\54654.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\54654_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\481413.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman stirring a pot on the stove while holding a plate.",
+    "negative_caption": "A small child is holding a frisbee while looking at the beach.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\123480.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\123480_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\6954.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "The man is looking into a mirror holding a toothbrush.",
+    "negative_caption": "A group of children sitting in the grass with two of them holding a Frisbee .",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\322610.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\322610_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\162415.jpg",
+    "structure": "holding (a|an|the) \\w+",
+    "anchor_caption": "A woman holding an umbrella stands as people walk past.",
+    "negative_caption": "A girl smiles while holding a baseball glove.",
+    "type": "coco_confusion"
+  },
+  {
     "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\297578.jpg",
     "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\297578_aug.jpg",
     "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\577932.jpg",
@@ -180,15 +396,6 @@
     "type": "coco_confusion"
   },
   {
-    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\333745.jpg",
-    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\333745_aug.jpg",
-    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\502336.jpg",
-    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
-    "anchor_caption": "a woman walking down the sidewalk next to a bus",
-    "negative_caption": "A group of people walking down a street next to a tall building.",
-    "type": "coco_confusion"
-  },
-  {
     "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\389684.jpg",
     "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\389684_aug.jpg",
     "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\150265.jpg",
@@ -198,21 +405,111 @@
     "type": "coco_confusion"
   },
   {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\289594.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\289594_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\140583.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "An old man walking down a sidewalk in black and white.",
+    "negative_caption": "A group of animals that are walking down the road.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\568439.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\568439_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\163314.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A man walking down a street past a double decker bus.",
+    "negative_caption": "Multiple people are walking on a street with shopping.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\422836.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\422836_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\361103.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A man walking down the street carrying a suitcase.",
+    "negative_caption": "People are walking along a sidewalk in a city.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\402774.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\402774_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\389451.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A woman is walking down the street with an umbrella in tow.",
+    "negative_caption": "A group of cows walking down a beach.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\557672.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\557672_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\233771.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A woman walking down a street holding an orange umbrella.",
+    "negative_caption": "A group of people walking on the street in a city.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\360960.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\360960_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\281759.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "Several people walking on a sidewalk, with one man holding an umbrella.",
+    "negative_caption": "A group of young women holding umbrellas while walking down a street.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\248284.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\248284_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\301867.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "a woman is walking down the street with an umbrella",
+    "negative_caption": "Three girls walking down the sidewalk under a sun umbrella.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\414385.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\414385_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\346232.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A man walking down a street next to a road filled with cars.",
+    "negative_caption": "A group of people walking down a road.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\425702.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\425702_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\364557.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A man holding a surfboard walking on a beach next to the ocean.",
+    "negative_caption": "two people walking on the beach carrying surf boards",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\100624.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\100624_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\363188.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "A woman walking down a street talking on a cell phone.",
+    "negative_caption": "People dressed as zombies walking down the street.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\116068.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\116068_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\395801.jpg",
+    "structure": "(walking|running) (on|down|along) (a|an|the) (street|beach|road|sidewalk)",
+    "anchor_caption": "Man walking down a beach with a multicolored kite.",
+    "negative_caption": "People are walking down the sidewalk in a city.",
+    "type": "coco_confusion"
+  },
+  {
     "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\173008.jpg",
     "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\173008_aug.jpg",
     "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\25096.jpg",
     "structure": "(eating|cutting) (a|an|the) \\w+",
     "anchor_caption": "A man in a tropical print shirt with glasses and long hair is eating a banana.",
     "negative_caption": "A young boy cutting a skate board shaped cake.",
-    "type": "coco_confusion"
-  },
-  {
-    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458992.jpg",
-    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458992_aug.jpg",
-    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\437205.jpg",
-    "structure": "(eating|cutting) (a|an|the) \\w+",
-    "anchor_caption": "The woman has a knife and fork for eating the big pizza.",
-    "negative_caption": "The young boy just finished eating the banana.",
     "type": "coco_confusion"
   },
   {
@@ -240,6 +537,69 @@
     "structure": "(eating|cutting) (a|an|the) \\w+",
     "anchor_caption": "Man cutting a cake on the table in the kitchen.",
     "negative_caption": "A young girl eating a slice of pizza.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\148662.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\148662_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\321214.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A man is eating a loaded hot dog with people around him in a line.",
+    "negative_caption": "A baby in plaid shirt eating a frosted cake.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\426795.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\426795_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\212166.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A man eating a giant piece of bread.",
+    "negative_caption": "A child with a messy face eating a plate of food with hands",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\327592.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\327592_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\80932.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A woman with glasses eating a piece of cake.",
+    "negative_caption": "a little kid eating a big slice of pizza at a table",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\529762.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\529762_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\361238.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A man sitting at a table eating a hamburger and fries.",
+    "negative_caption": "The girl with glasses is eating a slice of pizza.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\162092.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\162092_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\25603.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "The woman is eating a piece of cake.",
+    "negative_caption": "A girl sitting around a table in a restaurant eating a pizza.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\18193.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\18193_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\349594.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A woman in green sweater eating a hotdog by campfire.",
+    "negative_caption": "A young boy is standing against a wall eating an apple.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\312552.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\312552_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\394940.jpg",
+    "structure": "(eating|cutting) (a|an|the) \\w+",
+    "anchor_caption": "A woman eating a piece of pizza near the kitchen counter.",
+    "negative_caption": "a kid eating a cake on  table looking around",
     "type": "coco_confusion"
   },
   {
@@ -294,6 +654,384 @@
     "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
     "anchor_caption": "A woman on the grass is playing frisbee.",
     "negative_caption": "A girl swinging a tennis racket in a match.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\434548.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\434548_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\132544.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man is playing baseball in the field.",
+    "negative_caption": "A girl attempts to hit a ball with her bat while playing baseball.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\153669.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\153669_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\96427.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man swinging a bat on top of a baseball field.",
+    "negative_caption": "Two young boys are playing tennis indoors together.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\129945.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\129945_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\274411.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "a man is swinging a baseball bat at a game",
+    "negative_caption": "A girl is playing tennis and is going to pitch the ball.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\239857.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\239857_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\475191.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A woman is playing frisbee at a camp site.",
+    "negative_caption": "A girl swinging a tennis racquet on a court.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\238013.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\238013_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\33759.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man is playing tennis, the ball is coming toward him.",
+    "negative_caption": "A boy swinging a baseball bat at a game.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\85772.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\85772_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\414673.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "a blonde haired teenage man is swinging a tennis racquet at a ball.",
+    "negative_caption": "Young boy swinging bat at a game with onlookers.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\373382.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\373382_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\403122.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man in white playing tennis, about to hit a serve.",
+    "negative_caption": "a girl playing tennis with a bad knee",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\327701.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\327701_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\457884.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A woman is playing tennis with her children.",
+    "negative_caption": "Three children are playing baseball outside in a field.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\31217.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\31217_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\458045.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man playing tennis on the tennis court.",
+    "negative_caption": "THERE IS A BOY PLAYING BASEBALL AT THE BASE BALL FIELD",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\133244.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\133244_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\410510.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man in black shirt and blue shorts playing tennis.",
+    "negative_caption": "A boy playing tennis on a blue and green tennis court.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\325347.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\325347_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\39951.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man on a tennis court playing tennis",
+    "negative_caption": "A little boy with a red baseball cap playing tennis.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\223959.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\223959_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\235836.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "A man in white shirt and black shorts playing tennis.",
+    "negative_caption": "A boy playing baseball about to hit a ball.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\257865.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\257865_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\305309.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "The older man is playing tennis on the court.",
+    "negative_caption": "A boy swinging a baseball bat on a field near others.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\551804.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\551804_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\311928.jpg",
+    "structure": "(playing|swinging) (a|an|the)? ?(tennis|baseball|frisbee|racket|bat)",
+    "anchor_caption": "The woman is playing tennis on the court.",
+    "negative_caption": "A young boy swinging a baseball bat towards a ball.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\334719.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\334719_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\527215.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "Children & one adult flying a kite in an open area",
+    "negative_caption": "A man flying a kite on a beach with people standing around.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\494759.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\494759_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\124442.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "Two people on a beach flying a kite in the air.",
+    "negative_caption": "A man is flying a kite on a beach.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\433515.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\433515_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\511647.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "some people in a park flying a kite with a long tail",
+    "negative_caption": "A man flying a kite above a tall building in a cloudy blue sky.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\23751.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\23751_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\7511.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "A statue of a boy and a girl flying a kite in front of a building.",
+    "negative_caption": "A man is flying a kite at the beach.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\221291.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\221291_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\199395.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "A BOY IS OUT ON THE PARK FLYING A KITE",
+    "negative_caption": "a man is flying a kite at on the shore at the beach",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\293200.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\293200_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\367228.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "A young boy flying a kite with other people.",
+    "negative_caption": "Young man flying a kite over a grassy area by water.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\407868.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\407868_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\511760.jpg",
+    "structure": "flying (a|an|the) kite",
+    "anchor_caption": "A group of people standing on a lush green field flying a kite.",
+    "negative_caption": "A man and a child flying a kite.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\343803.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\343803_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\261036.jpg",
+    "structure": "throwing (a|an|the) (frisbee|ball|baseball)",
+    "anchor_caption": "The young man in jeans is throwing a Frisbee.",
+    "negative_caption": "A kid throwing a Frisbee on a grass field.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\229358.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\229358_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\546823.jpg",
+    "structure": "standing in front of (a|an|the) (building|store|window|mirror)",
+    "anchor_caption": "A man standing in front of a mirror in a room.",
+    "negative_caption": "A CROWD OF PEOPLE OUTSIDE STANDING IN FRONT OF A BUILDING",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\164602.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\164602_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\343149.jpg",
+    "structure": "standing in front of (a|an|the) (building|store|window|mirror)",
+    "anchor_caption": "A man and a woman standing in front of a mirror.",
+    "negative_caption": "People walking and standing in front of a building with a clock on it.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\414510.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\414510_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\497344.jpg",
+    "structure": "talking on (a|an|the|his|her) (phone|cell phone)",
+    "anchor_caption": "Man sitting on a sidewalk next to a bicycle talking on his cell phone.",
+    "negative_caption": "A little boy talking on the phone and playing with a computer.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\93437.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\93437_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\509451.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "An old man standing in a kitchen posing for a picture.",
+    "negative_caption": "A group of people posing for a photograph at a black tie event.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\465179.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\465179_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\250282.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A woman is brushing her teeth and posing for a picture.",
+    "negative_caption": "The large group of children are outside posing for a photo.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\117525.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\117525_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\287527.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A man wearing a Santa hat holding a dog posing for a picture.",
+    "negative_caption": "a couple standing together and posing for a photo",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\163682.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\163682_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\61584.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "Man wearing a blue shirt and pink tie posing for a picture sitting by a window.",
+    "negative_caption": "a couple sitting on a horse statue posing for a picture in grassy setting",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\258541.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\258541_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\270677.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A man posing for the picture in a building",
+    "negative_caption": "A boy posing for a picture with his skateboard.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\471087.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\471087_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\146358.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A man with dark hair, a shirt and a tie posing for a picture.",
+    "negative_caption": "A couple that is posing for a picture.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\443426.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\443426_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\41990.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "The man is sitting down posing for a picture.",
+    "negative_caption": "A group of people on snow shoes posing for a photo.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\6763.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\6763_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\5193.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A man and woman posing for a picture in a sports bar.",
+    "negative_caption": "Boys posing for a picture beside two surf boards.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\61747.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\61747_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\1000.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A woman in plaid pants posing for a picture on skis.",
+    "negative_caption": "A group of kids posing for a picture on a tennis court.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\64462.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\64462_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\271402.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A woman on skis on a ski slope posing for a picture.",
+    "negative_caption": "Two little girls posing for a picture, on a tennis court.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\488251.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\488251_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\172946.jpg",
+    "structure": "posing for (a|the) (photo|picture)",
+    "anchor_caption": "A man is posing for a picture while holding the reigns",
+    "negative_caption": "A large group of people posing for a picture.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\524850.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\524850_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\192607.jpg",
+    "structure": "standing (next to|near|beside) (a|an|the) (car|truck|bus|train)",
+    "anchor_caption": "A group of people standing next to a bus under an airplane.",
+    "negative_caption": "A man standing next to a truck near a forest hillside.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\203294.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\203294_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\46872.jpg",
+    "structure": "standing (next to|near|beside) (a|an|the) (car|truck|bus|train)",
+    "anchor_caption": "People standing next to a bus with a cat face on the front.",
+    "negative_caption": "a man standing next to a truck with some stuff on it",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\202228.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\202228_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\369310.jpg",
+    "structure": "wearing (a|an|the) (hat|helmet|jacket|costume)",
+    "anchor_caption": "A man wearing a hat while standing in front of a bathroom mirror.",
+    "negative_caption": "A boy wearing a helmet is playing video games.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\243204.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\243204_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\323355.jpg",
+    "structure": "wearing (a|an|the) (hat|helmet|jacket|costume)",
+    "anchor_caption": "A man is cooking while wearing a jacket and scarf",
+    "negative_caption": "a child wearing a hat is holding a pizza box with pizza inside.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\228214.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\228214_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\454404.jpg",
+    "structure": "looking at (a|an|his|her) (phone|laptop|camera)",
+    "anchor_caption": "A man in uniform is looking at his phone.",
+    "negative_caption": "A girls sits on a bench while looking at her phone.",
+    "type": "coco_confusion"
+  },
+  {
+    "anchor": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\99242.jpg",
+    "positive": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\99242_aug.jpg",
+    "negative": "C:\\Users\\User\\Image_similarity\\patch-image-similarity\\data\\coco_confusion_images\\384666.jpg",
+    "structure": "(skiing|snowboarding|surfing) (down|on) (a|an|the) (slope|wave|hill)",
+    "anchor_caption": "An older man downhill skiing down a slope.",
+    "negative_caption": "A bunch of children skiing down a slope",
     "type": "coco_confusion"
   }
 ]

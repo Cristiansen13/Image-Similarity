@@ -52,9 +52,49 @@ TEMPLATES = [
         ("adult", r"\b(man|woman)\b"),
         ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?)\b"),
     ]),
+    (r"flying (a|an|the) kite", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|group|people)\b"),
+    ]),
+    (r"throwing (a|an|the) (frisbee|ball|baseball)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?)\b"),
+    ]),
+    (r"standing in front of (a|an|the) (building|store|window|mirror)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|group|crowd|people)\b"),
+    ]),
+    (r"talking on (a|an|the|his|her) (phone|cell phone)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?)\b"),
+    ]),
+    (r"posing for (a|the) (photo|picture)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|group|couple)\b"),
+    ]),
+    (r"carrying (a|an|the) (bag|backpack|umbrella|suitcase)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|toddlers?)\b"),
+    ]),
+    (r"standing (next to|near|beside) (a|an|the) (car|truck|bus|train)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|group|people)\b"),
+    ]),
+    (r"wearing (a|an|the) (hat|helmet|jacket|costume)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?)\b"),
+    ]),
+    (r"looking at (a|an|his|her) (phone|laptop|camera)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?)\b"),
+    ]),
+    (r"(skiing|snowboarding|surfing) (down|on) (a|an|the) (slope|wave|hill)", [
+        ("adult", r"\b(man|woman)\b"),
+        ("child_or_group", r"\b(child|children|kids?|boys?|girls?|teenagers?|group)\b"),
+    ]),
 ]
 
-MAX_PAIRS_PER_TEMPLATE = 6
+MAX_PAIRS_PER_TEMPLATE = 20
 
 
 def augment(img, rng):
