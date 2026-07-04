@@ -162,13 +162,14 @@ def main():
     Xn = (X - mean) / std
     Xt = torch.tensor(Xn, dtype=torch.float32, device=device)
     yt = torch.tensor(y, dtype=torch.float32, device=device)
-    for step in range(args.gate_steps):
-        opt.zero_grad()
-        loss = F.binary_cross_entropy_with_logits(gate(Xt), yt)
-        loss.backward()
-        opt.step()
-        if (step + 1) % 100 == 0:
-            print(f"  gate step {step + 1}/{args.gate_steps} loss={loss.item():.4f}")
+    with torch.enable_grad():  # overrides the @torch.no_grad() on main() -- gate training needs grad
+        for step in range(args.gate_steps):
+            opt.zero_grad()
+            loss = F.binary_cross_entropy_with_logits(gate(Xt), yt)
+            loss.backward()
+            opt.step()
+            if (step + 1) % 100 == 0:
+                print(f"  gate step {step + 1}/{args.gate_steps} loss={loss.item():.4f}")
     gate.eval()
     gate_mean = torch.tensor(mean, device=device, dtype=torch.float32)
     gate_std = torch.tensor(std, device=device, dtype=torch.float32)
