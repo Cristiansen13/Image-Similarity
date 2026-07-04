@@ -247,6 +247,9 @@ def main():
             print(f"  step {step:5d}/{args.steps}  loss={running_loss / 20:.4f}  ({elapsed:.0f}s)")
             running_loss = 0.0
 
+    torch.save(model.backbone.state_dict(), os.path.join(args.out_dir, "backbone_final.pt"))
+    print(f"Saved backbone to {args.out_dir}/backbone_final.pt")
+
     print("\nEvaluating (global cosine similarity, standard protocol)...")
     metrics = evaluate_full(model, processor, args.cub_dir, device)
     print(f"Results: {metrics}")
