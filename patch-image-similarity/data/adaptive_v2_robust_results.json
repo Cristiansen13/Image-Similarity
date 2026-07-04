@@ -1,0 +1,81 @@
+{
+  "cub_seeds": [
+    {
+      "global_acc": 0.975,
+      "patch_acc": 0.915,
+      "adaptive_acc": 0.965,
+      "mean_weight": 0.2103338999175687
+    },
+    {
+      "global_acc": 0.985,
+      "patch_acc": 0.9,
+      "adaptive_acc": 0.97,
+      "mean_weight": 0.21836740113432657
+    },
+    {
+      "global_acc": 0.995,
+      "patch_acc": 0.925,
+      "adaptive_acc": 0.98,
+      "mean_weight": 0.22973512335818014
+    },
+    {
+      "global_acc": 0.985,
+      "patch_acc": 0.925,
+      "adaptive_acc": 0.975,
+      "mean_weight": 0.18827741663031375
+    },
+    {
+      "global_acc": 0.995,
+      "patch_acc": 0.88,
+      "adaptive_acc": 0.975,
+      "mean_weight": 0.21109699163399728
+    }
+  ],
+  "coco_seeds": [
+    {
+      "global_effect_size": 0.7647931481836295,
+      "global_pos_vs_conf": 1.0,
+      "patch_effect_size": 0.2810433435054368,
+      "patch_pos_vs_conf": 1.0,
+      "adaptive_effect_size": 0.2967495603858272,
+      "adaptive_pos_vs_conf": 1.0,
+      "mean_weight": 0.7694492934000086
+    },
+    {
+      "global_effect_size": 0.6995045918377104,
+      "global_pos_vs_conf": 1.0,
+      "patch_effect_size": 0.2537188071521535,
+      "patch_pos_vs_conf": 1.0,
+      "adaptive_effect_size": 0.2987186451288571,
+      "adaptive_pos_vs_conf": 1.0,
+      "mean_weight": 0.7694492934000086
+    },
+    {
+      "global_effect_size": 0.5945598543605299,
+      "global_pos_vs_conf": 1.0,
+      "patch_effect_size": 0.34813853343882734,
+      "patch_pos_vs_conf": 1.0,
+      "adaptive_effect_size": 0.3698911275500172,
+      "adaptive_pos_vs_conf": 1.0,
+      "mean_weight": 0.7694492934000086
+    },
+    {
+      "global_effect_size": 0.7733514111161676,
+      "global_pos_vs_conf": 1.0,
+      "patch_effect_size": 0.36215458224074915,
+      "patch_pos_vs_conf": 1.0,
+      "adaptive_effect_size": 0.41845764501815175,
+      "adaptive_pos_vs_conf": 1.0,
+      "mean_weight": 0.7694492934000086
+    },
+    {
+      "global_effect_size": 0.7988265769253688,
+      "global_pos_vs_conf": 1.0,
+      "patch_effect_size": 0.33886691692889104,
+      "patch_pos_vs_conf": 1.0,
+      "adaptive_effect_size": 0.3850172725054678,
+      "adaptive_pos_vs_conf": 1.0,
+      "mean_weight": 0.7694492934000086
+    }
+  ]
+}
